@@ -19,6 +19,8 @@ def tokens_to_csv():
             for word in tokens:
                 dic[word].append(filename)
 
+    dic = dict(sorted(dic.items()))
+
     with open('Tokens.csv', 'w') as f:
         header = "Token,PostingList\n"
         f.write(header)

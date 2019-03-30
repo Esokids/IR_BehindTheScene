@@ -1,1494 +1,2093 @@
-Token,PostingList,
-report,01.txt 04.txt ,
-could,01.txt 02.txt 03.txt 05.txt 08.txt 17.txt 22.txt 24.txt ,
-caused,01.txt 20.txt ,
-burst,01.txt ,
-merate,01.txt ,
-high-energy,01.txt ,
-collision,01.txt ,
-actually,01.txt 20.txt 23.txt ,
-high-speed,01.txt ,
-sister,01.txt ,
-crash,01.txt ,
-merge,01.txt ,
-space,01.txt ,
-experiment,01.txt ,
-11-11-17,01.txt ,
-august,01.txt ,
-picked,01.txt ,
-merger,01.txt ,
-gamma-ray,01.txt ,
-made,01.txt 02.txt 12.txt ,
-show,01.txt 04.txt 06.txt 25.txt ,
-smashed,01.txt ,
-wreckage,01.txt ,
-tease,01.txt ,
-using,01.txt 21.txt 23.txt ,
-seen,01.txt 04.txt 10.txt 21.txt ,
-extra,01.txt ,
-institute,01.txt 13.txt ,
-telescope,01.txt ,
-one,01.txt 04.txt 10.txt 13.txt 18.txt 19.txt 25.txt ,
-object,01.txt 03.txt ,
-italy,01.txt ,
-say,01.txt 05.txt 21.txt 23.txt 24.txt ,
-produced,01.txt ,
-involved,01.txt 18.txt ,
-ray,01.txt ,
-21,01.txt 04.txt ,
-astrophysics,01.txt ,
-dense,01.txt ,
-extreme,01.txt 20.txt ,
-p.,01.txt 03.txt 05.txt ,
-gamma,01.txt ,
-directly,01.txt 18.txt ,
-around,01.txt 04.txt 05.txt 10.txt 12.txt 18.txt ,
-ripple,01.txt 03.txt ,
-ultradense,01.txt ,
-neutron,01.txt ,
-core,01.txt ,
-time,01.txt 03.txt 04.txt 14.txt 22.txt 24.txt ,
-provided,01.txt ,
-detail,01.txt 22.txt ,
-electron,01.txt ,
-debris,01.txt ,
-wa,01.txt 12.txt 15.txt 18.txt 22.txt ,
-world,01.txt 07.txt 08.txt 18.txt 23.txt 25.txt ,
-detection,01.txt ,
-black,01.txt ,
-observed,01.txt ,
-researcher,01.txt 02.txt 03.txt 04.txt ,
-dead,01.txt ,
-coauthor,01.txt ,
-virgo,01.txt ,
-let,01.txt 03.txt ,
-giancarlo,01.txt ,
-escape,01.txt ,
-among,01.txt ,
-astrophysicist,01.txt ,
-process,01.txt 02.txt ,
-first,01.txt 07.txt 15.txt 16.txt ,
-detected,01.txt ,
-sn,01.txt 03.txt 05.txt ,
-origin,01.txt ,
-aftermath,01.txt ,
-flash,01.txt ,
-chance,01.txt 06.txt 13.txt ,
-ghirlanda,01.txt ,
-subatomic,01.txt ,
-idea,01.txt ,
-crashing,01.txt ,
-study,01.txt 21.txt ,
-charged,01.txt ,
-moving,01.txt ,
-colliding,01.txt ,
-grbs,01.txt ,
-field,01.txt ,
-energy,01.txt 02.txt 17.txt 21.txt 24.txt ,
-checked,01.txt ,
-6,01.txt ,
-ha,01.txt 08.txt 09.txt 11.txt 12.txt 14.txt 15.txt 17.txt 20.txt 21.txt 24.txt ,
-network,01.txt 02.txt 08.txt 11.txt ,
-observable,01.txt ,
-pair,01.txt 10.txt 23.txt ,
-launch,01.txt ,
-producing,01.txt ,
-work,01.txt 05.txt 10.txt 25.txt ,
-according,01.txt 20.txt 21.txt ,
-glowed,01.txt ,
-shot,01.txt 06.txt ,
-afar,01.txt ,
-observatory,01.txt 03.txt ,
-laser,01.txt 03.txt ,
-called,01.txt 04.txt 12.txt ,
-bright,01.txt ,
-combination,01.txt ,
-light,01.txt 03.txt 20.txt ,
-magnetic,01.txt ,
-another,01.txt 18.txt 24.txt ,
-long,01.txt 04.txt 16.txt 22.txt ,
-thought,01.txt 23.txt ,
-february,01.txt 03.txt 04.txt 05.txt ,
-shed,01.txt ,
-wavelength,01.txt ,
-2017,01.txt ,
-ever,01.txt 05.txt 22.txt ,
-online,01.txt ,
-consensus,01.txt ,
-2017,01.txt ,
-site,01.txt 16.txt ,
-wave,01.txt 03.txt ,
-every,01.txt 03.txt ,
-gravitational-wave,01.txt 03.txt ,
-new,01.txt 04.txt 05.txt 06.txt 07.txt 11.txt 16.txt 17.txt 21.txt 23.txt 25.txt ,
-mysterious,01.txt ,
-spacetime,01.txt 03.txt ,
-emit,01.txt ,
-part,01.txt 11.txt 25.txt ,
-close,01.txt 06.txt 23.txt ,
-star,01.txt ,
-advanced,01.txt 03.txt ,
-short,01.txt 14.txt 24.txt ,
-think,01.txt 10.txt 19.txt ,
-astronomer,01.txt ,
-theory,01.txt ,
-jet,01.txt 14.txt ,
-speed,01.txt 07.txt ,
-interferometer,01.txt 03.txt ,
-scientist,01.txt 03.txt 05.txt 15.txt 16.txt ,
-possibly,01.txt ,
-science,01.txt 03.txt 05.txt 17.txt ,
-proton,01.txt ,
-ligo,01.txt 03.txt ,
-hole,01.txt 24.txt ,
-observation,01.txt 05.txt ,
-previous,01.txt ,
-national,01.txt 13.txt 15.txt 16.txt 17.txt ,
-gravitational,01.txt 03.txt ,
-light-speed,01.txt ,
-radio,01.txt ,
-emerging,01.txt ,
-stream,01.txt ,
-particle,01.txt ,
-test,01.txt 11.txt 13.txt 14.txt ,
-silver,02.txt ,
-pathway,02.txt ,
-used,02.txt 10.txt 13.txt 21.txt 24.txt ,
-connected,02.txt 13.txt ,
-make,02.txt 12.txt ,
-became,02.txt 04.txt ,
-random,02.txt ,
-restricted,02.txt ,
-college,02.txt ,
-chip,02.txt ,
-brain,02.txt 18.txt ,
-university,02.txt 04.txt 05.txt ,
-resistor,02.txt ,
-paving,02.txt ,
-ireland,02.txt ,
-ai,02.txt 05.txt ,
-least,02.txt ,
-nanowires,02.txt ,
-artificial,02.txt 05.txt ,
-stored,02.txt ,
-similar,02.txt ,
-gradually,02.txt ,
-store,02.txt 09.txt 10.txt ,
-brain-inspired,02.txt ,
-computer,02.txt 05.txt ,
-computing,02.txt ,
-winner-takes-all,02.txt ,
-junction,02.txt ,
-data,02.txt 05.txt 13.txt 21.txt ,
-memristors,02.txt ,
-processing,02.txt ,
-simultaneously,02.txt ,
-emerged,02.txt ,
-promising,02.txt ,
-team,02.txt 04.txt ,
-solution,02.txt 11.txt 24.txt ,
-tweaked,02.txt ,
-create,02.txt ,
-storing,02.txt ,
-amount,02.txt ,
-included,02.txt ,
-way,02.txt 22.txt ,
-intelligence,02.txt 05.txt ,
-nanowire,02.txt ,
-large,02.txt 05.txt 18.txt ,
-neuron,02.txt ,
-single,02.txt 03.txt ,
-increasing,02.txt 07.txt ,
-improvement,02.txt ,
-low-energy,02.txt ,
-metal,02.txt ,
-take,02.txt 08.txt 10.txt 20.txt ,
-connectivity,02.txt ,
-level,02.txt 21.txt ,
-natural,02.txt 09.txt 10.txt ,
-winner,02.txt ,
-providing,02.txt 25.txt ,
-required,02.txt ,
-seemingly,02.txt 12.txt ,
-memory,02.txt ,
-synapsis,02.txt ,
-cork,02.txt ,
-going,03.txt 13.txt 17.txt ,
-2024,03.txt ,
-seek,03.txt ,
-event,03.txt ,
-arm,03.txt ,
-revved,03.txt ,
-improve,03.txt 11.txt ,
-11,03.txt ,
-livingston,03.txt ,
-technique,03.txt ,
-forth,03.txt ,
-machine,03.txt 05.txt ,
-advancement,03.txt 05.txt ,
-whether,03.txt 08.txt ,
-association,03.txt 05.txt ,
-conference,03.txt 05.txt ,
-wrangle,03.txt ,
-meeting,03.txt 05.txt 21.txt ,
-heisenberg,03.txt ,
-day,03.txt 09.txt ,
-monitor,03.txt ,
-wash.,03.txt ,
-position,03.txt ,
-35,03.txt ,
-rule,03.txt ,
-detector,03.txt ,
-finessing,03.txt ,
-uncertainty,03.txt ,
-give-and-take,03.txt ,
-week,03.txt 25.txt ,
-said,03.txt 05.txt 08.txt 25.txt ,
-4-kilometer-long,03.txt ,
-tally,03.txt ,
-certain,03.txt 05.txt ,
-determine,03.txt 14.txt ,
-arranged,03.txt ,
-l,03.txt ,
-washington,03.txt 05.txt ,
-03-05-16,03.txt ,
-getting,03.txt 23.txt ,
-american,03.txt 04.txt 05.txt 25.txt ,
-14,03.txt ,
-brightness,03.txt ,
-plus,03.txt 07.txt ,
-detect,03.txt ,
-meet,03.txt 11.txt 23.txt ,
-momentum,03.txt ,
-planned,03.txt ,
-upgrade,03.txt ,
-annual,03.txt 05.txt ,
-announced,03.txt 07.txt 25.txt ,
-relies,03.txt ,
-within,03.txt 04.txt 15.txt ,
-property,03.txt ,
-located,03.txt ,
-revamp,03.txt ,
-impossible,03.txt ,
-current,03.txt ,
-two,03.txt 07.txt 23.txt ,
-quantum,03.txt ,
-average,03.txt ,
-la.,03.txt ,
-beam,03.txt ,
-starting,03.txt 13.txt ,
-surpassed,03.txt ,
-precisely,03.txt ,
-back,03.txt 23.txt ,
-known,03.txt 18.txt ,
-recombine,03.txt ,
-state,03.txt 04.txt 08.txt 21.txt 22.txt 25.txt ,
-catch,03.txt ,
-principle,03.txt ,
-news,03.txt 05.txt 07.txt ,
-passing,03.txt ,
-22,03.txt ,
-hanford,03.txt ,
-million,03.txt 04.txt 13.txt 25.txt ,
-measure,03.txt 20.txt ,
-translates,03.txt ,
-bounce,03.txt ,
-ability,03.txt ,
-teeth,04.txt ,
-searching,04.txt ,
-sized,04.txt ,
-period,04.txt ,
-lindsay,04.txt ,
-ago,04.txt 15.txt ,
-gap,04.txt 06.txt ,
-later,04.txt ,
-chain,04.txt ,
-titanic,04.txt ,
-animal,04.txt 15.txt ,
-hip,04.txt ,
-mule,04.txt ,
-beginning,04.txt ,
-jurassic,04.txt ,
-larger,04.txt 05.txt 10.txt 24.txt ,
-north,04.txt ,
-150,04.txt 15.txt ,
-size,04.txt 10.txt ,
-dug,04.txt ,
-dinosaur,04.txt ,
-top,04.txt ,
-78,04.txt ,
-topped,04.txt ,
-humble,04.txt ,
-evolution,04.txt 16.txt ,
-leg,04.txt ,
-ancestor,04.txt ,
-fast,04.txt ,
-yet,04.txt 07.txt 09.txt ,
-96,04.txt ,
-america,04.txt ,
-leading,04.txt ,
-moro,04.txt ,
-doom,04.txt ,
-analysis,04.txt ,
-smallest,04.txt 10.txt ,
-oldest,04.txt ,
-late,04.txt ,
-raleigh,04.txt ,
-specie,04.txt 16.txt ,
-discovered,04.txt 15.txt ,
-fill,04.txt ,
-characteristic,04.txt ,
-deer,04.txt ,
-like,04.txt 05.txt 10.txt 13.txt 15.txt 18.txt 19.txt 23.txt 24.txt 25.txt ,
-become,04.txt 10.txt ,
-fossilized,04.txt 15.txt ,
-early,04.txt ,
-communication,04.txt 13.txt 25.txt ,
-would,04.txt 12.txt 14.txt 17.txt 23.txt ,
-weighed,04.txt ,
-mystery,04.txt 15.txt ,
-colossal,04.txt ,
-70-million-year,04.txt ,
-food,04.txt 09.txt ,
-swift,04.txt ,
-1.2,04.txt ,
-t.,04.txt ,
-carolina,04.txt ,
-paleontologist,04.txt ,
-m.,04.txt ,
-discovery,04.txt 05.txt 12.txt 16.txt ,
-tyrannosaur,04.txt ,
-solve,04.txt ,
-rock,04.txt ,
-intrepidus,04.txt ,
-giant,04.txt 12.txt 22.txt 24.txt ,
-cretaceous,04.txt ,
-deer-sized,04.txt ,
-predator,04.txt ,
-harbinger,04.txt ,
-found,04.txt 09.txt 22.txt ,
-county,04.txt ,
-tyrannosaurus,04.txt ,
-dubbed,04.txt ,
-dating,04.txt ,
-quite,04.txt 10.txt 18.txt ,
-kilogram,04.txt ,
-colleague,04.txt ,
-meter,04.txt ,
-year,04.txt 07.txt 15.txt 16.txt 17.txt 21.txt ,
-petite,04.txt ,
-record,04.txt ,
-indicative,04.txt ,
-zanno,04.txt ,
-runner,04.txt ,
-rex,04.txt ,
-estimated,04.txt 25.txt ,
-70,04.txt ,
-stood,04.txt ,
-allosaur,04.txt ,
-creature,04.txt 15.txt ,
-10,04.txt ,
-emery,04.txt ,
-fossil,04.txt ,
-utah,04.txt ,
-even,04.txt 06.txt 10.txt 11.txt 14.txt 18.txt 21.txt 22.txt 23.txt ,
-unlike,04.txt ,
-next,04.txt 13.txt 25.txt ,
-ferocious,04.txt ,
-biology,04.txt ,
-thin,04.txt ,
-help,04.txt 11.txt 12.txt 17.txt 22.txt ,
-clue,04.txt ,
-autonomous,05.txt ,
-identify,05.txt ,
-aftershock,05.txt ,
-making,05.txt 11.txt ,
-genetic,05.txt ,
-judgment,05.txt ,
-quicker,05.txt ,
-genevera,05.txt ,
-data-probing,05.txt ,
-always,05.txt 20.txt ,
-unknown,05.txt 16.txt ,
-learn,05.txt ,
-uncover,05.txt ,
-moon,05.txt ,
-potential,05.txt 21.txt ,
-gauge,05.txt ,
-allen,05.txt ,
-25,05.txt 25.txt ,
-better,05.txt 16.txt ,
-blindly,05.txt ,
-program,05.txt 14.txt ,
-trove,05.txt ,
-warns,05.txt ,
-lead,05.txt 21.txt ,
-medical,05.txt ,
-12/22/18,05.txt ,
-warned,05.txt ,
-algorithm,05.txt ,
-entrusted,05.txt ,
-relationship,05.txt ,
-use,05.txt 08.txt 10.txt 13.txt 22.txt 24.txt ,
-trusting,05.txt ,
-area,05.txt 21.txt ,
-following,05.txt ,
-easily,05.txt ,
-much,05.txt 06.txt 16.txt 18.txt 23.txt 24.txt ,
-stockpile,05.txt ,
-information,05.txt 13.txt ,
-pattern,05.txt ,
-golden,05.txt ,
-trust,05.txt ,
-poke,05.txt ,
-datasets,05.txt ,
-studying,05.txt ,
-crater,05.txt ,
-live,05.txt ,
-hard,05.txt ,
-deferring,05.txt ,
-15,05.txt ,
-rather,05.txt ,
-verify,05.txt ,
-counting,05.txt ,
-previously,05.txt ,
-pore,05.txt ,
-argues,05.txt ,
-insight,05.txt ,
-human,05.txt ,
-age,05.txt ,
-instruction,05.txt 22.txt ,
-namely,05.txt ,
-earthquake,05.txt ,
-result,05.txt ,
-conclusion,05.txt ,
-faulty,05.txt ,
-reliable,05.txt ,
-people,05.txt 09.txt 13.txt 16.txt 21.txt 25.txt ,
-astronomical,05.txt ,
-explicit,05.txt ,
-check,05.txt ,
-image,05.txt ,
-predicting,05.txt ,
-rice,05.txt ,
-scientific,05.txt 15.txt 24.txt ,
-houston,05.txt ,
-feature,05.txt 12.txt 18.txt 22.txt 25.txt ,
-exploratory,05.txt ,
-various,05.txt 06.txt 22.txt 23.txt ,
-decision,05.txt ,
-may,05.txt 25.txt ,
-system,05.txt 18.txt 24.txt ,
-learning,05.txt ,
-complete,06.txt ,
-mostly,06.txt ,
-closed,06.txt 18.txt ,
-get,06.txt 20.txt 23.txt ,
-see,06.txt 10.txt 15.txt ,
-software,06.txt ,
-footage,06.txt ,
-also,06.txt 10.txt 11.txt 25.txt ,
-4-minute,06.txt ,
-mode,06.txt 25.txt ,
-foldable,06.txt ,
-samsung,06.txt 07.txt ,
-hear,06.txt ,
-via,06.txt ,
-look,06.txt 23.txt 25.txt ,
-display,06.txt ,
-apps,06.txt ,
-google,06.txt 12.txt 21.txt ,
-phone,06.txt ,
-netflix,06.txt ,
-closer,06.txt ,
-beep,06.txt ,
-offering,06.txt ,
-different,06.txt ,
-hinge,06.txt ,
-lot,06.txt 10.txt 23.txt ,
-instagram,06.txt ,
-clearly,06.txt ,
-folding,06.txt ,
-variety,06.txt ,
-allowing,06.txt ,
-video,06.txt 09.txt 24.txt ,
-offer,06.txt ,
-camera,06.txt 13.txt ,
-tablet,06.txt ,
-including,06.txt ,
-bloops,06.txt ,
-usb-c,06.txt ,
-color,06.txt 21.txt ,
-b-roll,06.txt ,
-click,06.txt ,
-map,06.txt 21.txt ,
-mobile,06.txt 07.txt 08.txt ,
-slight,06.txt ,
-fold,06.txt ,
-silent,06.txt ,
-shown,06.txt ,
-experience,06.txt 23.txt 25.txt ,
-game,06.txt ,
-galaxy,06.txt 07.txt ,
-dex,06.txt ,
-variation,06.txt ,
-desktop-like,06.txt ,
-selection,06.txt ,
-change,06.txt 17.txt 21.txt ,
-device,06.txt 10.txt 12.txt 13.txt 22.txt ,
-connect,06.txt ,
-anyone,07.txt 09.txt ,
-s10,07.txt ,
-march,07.txt ,
-western,07.txt ,
-microsd,07.txt ,
-announcement,07.txt ,
-doubled,07.txt ,
-card,07.txt ,
-160mb/s,07.txt ,
-versus,07.txt ,
-100mb/s,07.txt ,
-line,07.txt ,
-premium,07.txt ,
-5mb/s,07.txt ,
-good,07.txt 10.txt ,
-thinking,07.txt ,
-write,07.txt ,
-available,07.txt ,
-storage,07.txt ,
-today,07.txt ,
-capacity,07.txt ,
-1-terabyte,07.txt ,
-inexorable,07.txt ,
-looking,07.txt ,
-thing,07.txt 13.txt 20.txt ,
-considering,07.txt ,
-competitively,07.txt ,
-quarter,07.txt ,
-high,07.txt 09.txt ,
-congress,07.txt ,
-released,07.txt ,
-spokesperson,07.txt 12.txt ,
-priced,07.txt ,
-april,07.txt ,
-95mb/s,07.txt ,
-1tb,07.txt ,
-199.99,07.txt ,
-sandisk,07.txt ,
-faster,07.txt ,
-512gb,07.txt ,
-pretty,07.txt ,
-digital,07.txt ,
-microsdxc,07.txt ,
-launched,07.txt ,
-pricing,07.txt ,
-however,07.txt 12.txt ,
-micron,07.txt ,
-uhs-i,07.txt ,
-u,07.txt 12.txt 18.txt ,
-read,07.txt ,
-convenience,07.txt ,
-advantage,07.txt ,
-tell,07.txt 12.txt 18.txt ,
-449.99,07.txt ,
-citing,07.txt ,
-second,07.txt ,
-brand,07.txt ,
-sell,07.txt ,
-performance,07.txt 11.txt ,
-claiming,07.txt ,
-product,07.txt 19.txt ,
-continues,07.txt ,
-max,07.txt ,
-monday,08.txt ,
-need,08.txt 10.txt 12.txt 17.txt 21.txt 23.txt 24.txt ,
-group,08.txt ,
-told,08.txt 12.txt ,
-united,08.txt 21.txt ,
-fear,08.txt ,
-vehicle,08.txt 24.txt 25.txt ,
-huawei,08.txt ,
-intense,08.txt ,
-operation,08.txt 14.txt ,
-technology,08.txt 13.txt 23.txt ,
-ally,08.txt ,
-sweden,08.txt ,
-ericsson,08.txt ,
-european,08.txt ,
-chinese,08.txt ,
-u.s.,08.txt 19.txt ,
-nokia,08.txt 11.txt ,
-company,08.txt 11.txt 12.txt 20.txt ,
-view,08.txt ,
-largest,08.txt ,
-europe,08.txt ,
-gear,08.txt 23.txt ,
-barcelona,08.txt ,
-evidence,08.txt ,
-finland,08.txt ,
-scrutiny,08.txt ,
-head,08.txt 25.txt ,
-supplier,08.txt ,
-share,08.txt ,
-authority,08.txt ,
-bos,08.txt ,
-reuters,08.txt ,
-spy,08.txt ,
-ahead,08.txt ,
-vodafone,08.txt ,
-common,08.txt 10.txt 11.txt ,
-suffering,09.txt ,
-surgery,09.txt ,
-prescribing,09.txt ,
-got,09.txt ,
-grocery,09.txt ,
-without,09.txt 23.txt ,
-drug,09.txt ,
-lower,09.txt ,
-100,09.txt ,
-pressure,09.txt ,
-local,09.txt 16.txt ,
-naturally,09.txt ,
-normalize,09.txt ,
-plaque,09.txt ,
-artery,09.txt ,
-cholesterol,09.txt ,
-thanks,09.txt ,
-treatment,09.txt ,
-strength,09.txt ,
-might,09.txt 10.txt 22.txt ,
-care,09.txt ,
-must,09.txt 17.txt ,
-13,969,09.txt 
-pill,09.txt ,
-blood,09.txt ,
-heart,09.txt ,
-stop,09.txt ,
-powerful,09.txt ,
-destroy,09.txt ,
-life,09.txt 24.txt ,
-watch,09.txt ,
-shop,09.txt ,
-–,09.txt ,
-28,09.txt ,
-health,09.txt ,
-stunned,09.txt ,
-ingredient,09.txt ,
-transform,09.txt ,
-3,09.txt ,
-doctor,09.txt ,
-disease,09.txt ,
-attention,09.txt 17.txt ,
-know,09.txt 22.txt ,
-surprising,09.txt ,
-fight,09.txt 16.txt 20.txt ,
-haert,09.txt ,
-pod,10.txt 25.txt ,
-hearing,10.txt ,
-pairing,10.txt ,
-security,10.txt 12.txt 13.txt 18.txt 22.txt 25.txt ,
-come,10.txt 17.txt 20.txt ,
-box,10.txt ,
-5,10.txt ,
-though,10.txt 15.txt ,
-paired,10.txt 23.txt ,
-echoweek,10.txt ,
-wireless,10.txt 22.txt ,
-enough,10.txt 14.txt ,
-smaller,10.txt ,
-almost,10.txt 17.txt ,
-stunning,10.txt ,
-walking,10.txt ,
-stay,10.txt ,
-pose,10.txt ,
-soon,10.txt ,
-unit,10.txt ,
-issue,10.txt ,
-design,10.txt ,
-left-right,10.txt ,
-dock,10.txt ,
-inside,10.txt ,
-charging,10.txt ,
-point,10.txt ,
-sound,10.txt ,
-affordable,10.txt ,
-bluetooth,10.txt ,
-source,10.txt ,
-reecho,10.txt ,
-ear,10.txt ,
-fully,10.txt ,
-us,10.txt 22.txt ,
-review,10.txt ,
-small,10.txt 22.txt ,
-sure,10.txt 23.txt ,
-standard,10.txt ,
-progression,10.txt ,
-separately,10.txt ,
-service,10.txt 11.txt ,
-earpods,10.txt ,
-fact,10.txt 12.txt 15.txt ,
-sheer,10.txt 25.txt ,
-decent,10.txt ,
-profile,10.txt ,
-setting,10.txt 20.txt ,
-bit,10.txt ,
-latest,10.txt ,
-india,11.txt ,
-enables,11.txt ,
-fronthaul,11.txt ,
-airtel,11.txt ,
-support,11.txt ,
-platform,11.txt ,
-claim,11.txt ,
-'s,11.txt 12.txt 13.txt 16.txt 17.txt 18.txt 20.txt 21.txt 22.txt 24.txt 25.txt ,
-trail,11.txt ,
-existing,11.txt ,
-5g,11.txt ,
-partner,11.txt ,
-future,11.txt 23.txt ,
-ready,11.txt 14.txt ,
-homogenous,11.txt ,
-telecom,11.txt ,
-partnered,11.txt ,
-strategy,11.txt ,
-4g,11.txt ,
-allow,11.txt ,
-bandwidth,11.txt ,
-enterprise,11.txt ,
-growing,11.txt ,
-demand,11.txt ,
-bharti,11.txt ,
-deliver,11.txt ,
-homogeneous,11.txt ,
-provider,11.txt ,
-prepares,11.txt ,
-failed,12.txt ,
-turn,12.txt ,
-secure,12.txt 22.txt ,
-name,12.txt ,
-notified,12.txt ,
-accident,12.txt ,
-nest,12.txt ,
-control,12.txt 22.txt ,
-month,12.txt 13.txt 25.txt ,
-credence,12.txt ,
-'',12.txt 24.txt ,
-mic,12.txt ,
-meant,12.txt ,
-sparking,12.txt ,
-hidden,12.txt 22.txt ,
-``,12.txt 24.txt ,
-user,12.txt ,
-suggests,12.txt ,
-n't,12.txt 22.txt 24.txt ,
-came,12.txt 16.txt ,
-secret,12.txt 18.txt ,
-tech,12.txt ,
-big,12.txt 24.txt ,
-call,12.txt ,
-voice,12.txt ,
-completely,12.txt 22.txt ,
-insists,12.txt ,
-real,12.txt ,
-privacy,12.txt 13.txt ,
-component,12.txt ,
-paranoia,12.txt ,
-plethora,12.txt ,
-earlier,12.txt 25.txt ,
-intended,12.txt ,
-fuel,12.txt 19.txt ,
-notify,12.txt ,
-safer,12.txt ,
-eavesdropping,12.txt ,
-equipped,12.txt 24.txt ,
-oversight,12.txt ,
-assistant,12.txt 21.txt ,
-keypad,12.txt ,
-microphone,12.txt ,
-insider,12.txt ,
-alarm,12.txt ,
-business,12.txt 25.txt ,
-motion-sensor,12.txt ,
-everyone,12.txt ,
-concern,12.txt 13.txt ,
-home,12.txt 21.txt ,
-oogle,12.txt ,
-doe,12.txt ,
-voice-control,12.txt ,
-mention,12.txt ,
-us—that,12.txt ,
-per,12.txt ,
-never,12.txt 19.txt ,
-spec,12.txt ,
-on-device,12.txt ,
-scheme,12.txt ,
-existence,12.txt ,
-advertising,12.txt ,
-compatible,12.txt ,
-forgot,12.txt ,
-embedded,12.txt ,
-guard,12.txt 18.txt ,
-error,12.txt ,
-unsurprising,12.txt ,
-function,12.txt ,
-'error',12.txt ,
-listed,12.txt ,
-sort,12.txt ,
-lends,12.txt ,
-microphone-equipped,12.txt ,
-japan,13.txt ,
-dumbest,13.txt ,
-password,13.txt ,
-thermostat,13.txt ,
-country,13.txt 18.txt ,
-instead,13.txt 15.txt ,
-trying,13.txt 18.txt ,
-travel,13.txt ,
-list,13.txt ,
-tend,13.txt 22.txt 24.txt ,
-iot,13.txt 14.txt ,
-gain,13.txt ,
-find,13.txt ,
-200,13.txt ,
-bought,13.txt ,
-probe,13.txt ,
-government,13.txt 18.txt ,
-extremely,13.txt 16.txt 22.txt ,
-appliance,13.txt ,
-hacking,13.txt 22.txt ,
-access,13.txt ,
-vulnerable,13.txt ,
-hackable,13.txt 22.txt ,
-anyway,13.txt ,
-bet,13.txt ,
-default,13.txt ,
-commonly,13.txt ,
-employee,13.txt ,
-start,13.txt 14.txt ,
-best,13.txt ,
-number,13.txt ,
-buy,13.txt ,
-poor,13.txt ,
-wi-fi,13.txt ,
-hack,13.txt ,
-internet,13.txt ,
-electronics,13.txt ,
-citizen,13.txt ,
-smart,13.txt 23.txt ,
-carrier,14.txt ,
-term,14.txt ,
-joint,14.txt ,
-capability,14.txt ,
-operational,14.txt ,
-2019,14.txt ,
-evaluation,14.txt ,
-f-35,14.txt ,
-mission,14.txt ,
-f-35s,14.txt ,
-pace,14.txt ,
-highly,14.txt ,
-prove,14.txt ,
-keep,14.txt 18.txt ,
-simulated,14.txt ,
-enter,14.txt ,
-problem,14.txt 24.txt ,
-cancel,14.txt ,
-increasingly,14.txt ,
-operating,14.txt 18.txt ,
-november,14.txt ,
-indeed,14.txt ,
-worth,14.txt ,
-bad,14.txt ,
-faced,14.txt ,
-put,14.txt ,
-fighter,14.txt ,
-strike,14.txt ,
-combat,14.txt 17.txt ,
-e,14.txt ,
-july,14.txt ,
-expensive,14.txt ,
-action,14.txt ,
-prime,14.txt ,
-showing,14.txt ,
-complicated,14.txt ,
-set,14.txt ,
-mass,14.txt ,
-conclude,14.txt ,
-initial,14.txt ,
-testing,14.txt ,
-pentagon-mandated,14.txt ,
-production,14.txt ,
-gamut,14.txt ,
-mature,14.txt ,
-past,14.txt ,
-overcome,14.txt ,
-2018,14.txt ,
-customer,14.txt ,
-worldwide,14.txt 18.txt ,
-plane,14.txt ,
-cover,14.txt ,
-designed,14.txt 20.txt 22.txt ,
-pivotal,14.txt ,
-weather,14.txt ,
-many,14.txt 21.txt 22.txt ,
-several,14.txt 21.txt ,
-round,14.txt ,
-anticipated,14.txt ,
-assure,14.txt ,
-decade,14.txt ,
-cold,14.txt 20.txt ,
-minor,15.txt ,
-solved,15.txt ,
-laboratoire,15.txt ,
-half,15.txt ,
-placed,15.txt ,
-stylophoran,15.txt ,
-millennia-old,15.txt ,
-body,15.txt ,
-echinoderm—from,15.txt ,
-appropriate,15.txt ,
-stylophorans,15.txt ,
-french,15.txt ,
-confusing,15.txt ,
-calcite,15.txt ,
-vertebrate,15.txt ,
-tiny,15.txt ,
-research,15.txt ,
-center,15.txt ,
-plate,15.txt ,
-resembled,15.txt ,
-g,15.txt ,
-ologie,15.txt ,
-picture,15.txt ,
-spine,15.txt ,
-reminiscent,15.txt ,
-starfish,15.txt ,
-finally,15.txt ,
-appendage,15.txt ,
-salamander,15.txt ,
-hybrid,15.txt ,
-modern,15.txt ,
-tail,15.txt ,
-old,15.txt ,
-appeared,15.txt ,
-since,15.txt 22.txt 24.txt ,
-weird,15.txt 19.txt ,
-struggle,15.txt ,
-lyon,15.txt ,
-composed,15.txt ,
-gnawed,15.txt ,
-question,15.txt 17.txt ,
-century,15.txt 16.txt 18.txt 23.txt ,
-ancient,15.txt 22.txt ,
-france,15.txt ,
-family,15.txt ,
-de,15.txt ,
-exactly,15.txt ,
-primitive,15.txt ,
-bertrand,15.txt ,
-lefebvre,15.txt ,
-150-year,15.txt ,
-cnrs,15.txt ,
-invasive,16.txt ,
-waste,16.txt 19.txt ,
-community,16.txt 17.txt 21.txt ,
-tortoise,16.txt ,
-17th,16.txt ,
-historic,16.txt ,
-weapon,16.txt ,
-whaler,16.txt ,
-drone,16.txt 24.txt ,
-timeline,16.txt ,
-darwin,16.txt ,
-birth,16.txt ,
-park,16.txt ,
-poison,16.txt ,
-gal,16.txt ,
-pagos,16.txt ,
-'ve,16.txt 19.txt ,
-creating,16.txt 23.txt ,
-along,16.txt ,
-damage,16.txt 20.txt ,
-pick,16.txt ,
-re-invaded,16.txt ,
-distribution,16.txt ,
-fauna,16.txt ,
-organized,16.txt ,
-living,16.txt ,
-island,16.txt ,
-flying,16.txt 24.txt ,
-unparalleled,16.txt ,
-trap,16.txt ,
-exact,16.txt ,
-done,16.txt ,
-sometime,16.txt ,
-curbed,16.txt ,
-dropping,16.txt ,
-visitor,16.txt ,
-rat,16.txt ,
-laid,16.txt ,
-ecuador,16.txt ,
-proved,16.txt ,
-effective,16.txt ,
-'re,16.txt ,
-18th,16.txt ,
-pirate,16.txt ,
-success,16.txt ,
-helpful,16.txt ,
-remains,16.txt ,
-charles,16.txt ,
-practically,16.txt ,
-recently,16.txt 17.txt ,
-chagrin,16.txt ,
-built,16.txt 24.txt ,
-hope,16.txt ,
-le,16.txt 22.txt ,
-industry,17.txt ,
-critically,17.txt ,
-whatever,17.txt ,
-succeeded,17.txt ,
-devastating,17.txt ,
-cutting-edge,17.txt ,
-strain,17.txt ,
-innovation,17.txt ,
-focusing,17.txt ,
-certainly,17.txt ,
-foundation,17.txt ,
-rep.,17.txt ,
-developing,17.txt ,
-succeed,17.txt ,
-five,17.txt ,
-important,17.txt 20.txt ,
-climate,17.txt 21.txt ,
-technological,17.txt ,
-changing,17.txt ,
-battle,17.txt 18.txt ,
-sen.,17.txt ,
-ambitious,17.txt ,
-proposed,17.txt ,
-deal,17.txt ,
-blueprint,17.txt ,
-ocasio-cortez,17.txt ,
-serious,17.txt 23.txt ,
-goal,17.txt 21.txt ,
-reaching,17.txt ,
-adopted,17.txt ,
-plan,17.txt ,
-preventing,17.txt ,
-markey,17.txt ,
-5,17.txt 19.txt ,
-green,17.txt ,
-form,17.txt ,
-ed,17.txt ,
-require,17.txt ,
-guessed,18.txt ,
-extends,18.txt ,
-changed—and,18.txt ,
-whose,18.txt ,
-admits,18.txt ,
-lost,18.txt 23.txt ,
-outlaw,18.txt ,
-forbidden,18.txt ,
-spending,18.txt ,
-one-up,18.txt ,
-keen,18.txt ,
-total,18.txt ,
-services—the,18.txt ,
-land,18.txt ,
-wit,18.txt ,
-entire,18.txt ,
-inspector,18.txt ,
-uncle,18.txt ,
-1925,18.txt ,
-bureau—are,18.txt ,
-document,18.txt ,
-collect,18.txt 21.txt ,
-mail,18.txt ,
-post,18.txt ,
-nearly,18.txt ,
-ceaselessly,18.txt ,
-money,18.txt ,
-value,18.txt ,
-department,18.txt 25.txt ,
-guarding,18.txt ,
-sea,18.txt ,
-assisting,18.txt ,
-brought,18.txt ,
-custom,18.txt ,
-side,18.txt ,
-border,18.txt ,
-rewind,18.txt ,
-vigilance,18.txt ,
-agent,18.txt ,
-motor,18.txt ,
-three,18.txt 23.txt ,
-smuggler,18.txt ,
-competing,18.txt ,
-fleet,18.txt ,
-january,18.txt ,
-lawman,18.txt ,
-frontier,18.txt ,
-office,18.txt ,
-prohibition,18.txt ,
-activity,18.txt ,
-exercise,18.txt 23.txt ,
-thousand,18.txt ,
-rm,18.txt ,
-jfk,18.txt ,
-annually,18.txt ,
-sam,18.txt ,
-army,18.txt ,
-article,18.txt ,
-airplane,18.txt ,
-mechanic,18.txt 25.txt ,
-force,18.txt ,
-merchandise,18.txt ,
-enlisted,18.txt ,
-justice,18.txt ,
-contraband,18.txt ,
-hasn't—over,18.txt ,
-coast,18.txt ,
-fought,18.txt ,
-popular,18.txt 25.txt ,
-sum,18.txt ,
-constant,18.txt ,
-purpose,18.txt 24.txt ,
-others,18.txt ,
-revenue,18.txt ,
-vast,18.txt ,
-men,18.txt ,
-navy,18.txt ,
-toll,18.txt ,
-plant,19.txt ,
-something,19.txt 20.txt ,
-probably,19.txt ,
-easiest,19.txt ,
-across,19.txt ,
-bark,19.txt ,
-likely,19.txt ,
-hickory,19.txt ,
-pellet,19.txt ,
-burned,19.txt ,
-boiler,19.txt ,
-sweep,19.txt ,
-industrial,19.txt 22.txt ,
-kiln,19.txt ,
-manufacturing,19.txt ,
-lumber,19.txt ,
-seems,19.txt ,
-sawmill,19.txt ,
-blend,19.txt ,
-fuel—even,19.txt ,
-furnace,19.txt ,
-stuff,19.txt ,
-canada,19.txt ,
-heard,19.txt ,
-charcoal,19.txt ,
-warm,19.txt ,
-fueling,19.txt ,
-grill,19.txt ,
-pleasant,19.txt ,
-burning,19.txt 20.txt ,
-shaving,19.txt ,
-chips—the,19.txt ,
-extruded,19.txt ,
-vortex,19.txt ,
-polar,19.txt ,
-wood-processing,19.txt ,
-understand,19.txt ,
-sawdust,19.txt ,
-fahrenheit,20.txt ,
-series,20.txt ,
-spell,20.txt ,
-train,20.txt ,
--30,20.txt ,
-observe,20.txt ,
-metra,20.txt ,
-arctic,20.txt ,
-individual,20.txt ,
-middle,20.txt ,
-run,20.txt ,
-heat,20.txt ,
-gas,20.txt 24.txt ,
-rogue,20.txt ,
-wind,20.txt ,
-case,20.txt ,
-hand,20.txt ,
-fire,20.txt ,
-note,20.txt ,
-rail,20.txt ,
-worker,20.txt ,
-vicious,20.txt ,
-instance,20.txt ,
-city,20.txt ,
-specifically,20.txt ,
-commuter,20.txt ,
-underground,20.txt ,
-degree,20.txt ,
-flame,20.txt ,
-taken,20.txt ,
-manually,20.txt ,
-prevent,20.txt ,
-chicago,20.txt ,
-prompted,20.txt ,
-heated,20.txt ,
-reached,20.txt ,
-pipe,20.txt ,
-organization,20.txt ,
-track,20.txt ,
-temperature,20.txt ,
-lighting,20.txt ,
-currently,20.txt ,
-benefit,21.txt ,
-controlling,21.txt ,
-analyze,21.txt ,
-ownership,21.txt ,
-intergovernmental,21.txt ,
-gaining,21.txt ,
-deborah,21.txt ,
-ethnicity,21.txt ,
-professor,21.txt ,
-skipping,21.txt ,
-sunroof,21.txt ,
-press,21.txt ,
-given,21.txt 22.txt ,
-income,21.txt ,
-hispanic,21.txt ,
-well,21.txt 25.txt ,
-empowerment.,21.txt ,
-protection,21.txt ,
-tuft,21.txt ,
-project,21.txt ,
-mechanical,21.txt ,
-african-american,21.txt ,
-solar,21.txt ,
-coming—but,21.txt ,
-social,21.txt 23.txt ,
-pv,21.txt ,
-exist,21.txt ,
-deploy,21.txt ,
-regardless,21.txt ,
-race,21.txt ,
-growth,21.txt ,
-last,21.txt ,
-uneven,21.txt ,
-photovoltaic,21.txt ,
-fewer,21.txt ,
-revolution,21.txt ,
-broadly,21.txt ,
-presented,21.txt ,
-author,21.txt ,
-statement,21.txt ,
-substantive,21.txt ,
-panel,21.txt ,
-engineering,21.txt ,
-resource,21.txt ,
-crucial,21.txt ,
-sunter,21.txt ,
-neighborhood,21.txt ,
-power,21.txt ,
-trivial,22.txt ,
-paper,22.txt ,
-kind,22.txt ,
-scene,22.txt ,
-safety,22.txt 25.txt ,
-vulnerability,22.txt ,
-able,22.txt ,
-end,22.txt ,
-wanted,22.txt ,
-nefarious,22.txt ,
-proprietary,22.txt ,
-shared,22.txt ,
-cybersecurity,22.txt ,
-trend,22.txt ,
-range,22.txt ,
-shutting,22.txt ,
-expert,22.txt ,
-command,22.txt ,
-micro,22.txt ,
-override,22.txt ,
-useless,22.txt ,
-main,22.txt 25.txt ,
-covert,22.txt ,
-dangerous,22.txt ,
-commercial,22.txt ,
-fairly,22.txt ,
-possible,22.txt ,
-standardized,22.txt ,
-constantly,22.txt ,
-remotely,22.txt ,
-crane,22.txt ,
-somewhere,22.txt ,
-piece,22.txt ,
-hardware,22.txt ,
-updated,22.txt ,
-protocol,22.txt ,
-developed,22.txt ,
-controlled,22.txt ,
-obscurity,22.txt ,
-severity,22.txt ,
-engage,22.txt ,
-upcoming,22.txt ,
-attempt,22.txt ,
-exploit,22.txt ,
-susceptible,22.txt ,
-render,22.txt ,
-flashy,22.txt ,
-relay,22.txt ,
-give,22.txt ,
-fabricated,22.txt ,
-forbes,22.txt ,
-lay,22.txt ,
-hacker,22.txt ,
-contain,22.txt ,
-priority,22.txt ,
-essentially,22.txt ,
-widely,22.txt ,
-higher,22.txt ,
-disturbingly,22.txt ,
-indoor,23.txt ,
-unwilling,23.txt ,
-bike,23.txt ,
-cycling,23.txt ,
-feeling,23.txt ,
-partnership,23.txt 25.txt ,
-bicycle,23.txt ,
-app,23.txt ,
-gaming,23.txt ,
-subzero,23.txt ,
-virtual,23.txt ,
-sock,23.txt ,
-zwift,23.txt ,
-exploring,23.txt ,
-none,23.txt ,
-outside,23.txt ,
-riding,23.txt ,
-putting,23.txt ,
-reality,23.txt ,
-pm,23.txt ,
-cyclist,23.txt ,
-temp,23.txt ,
-place,23.txt ,
-feel,23.txt 25.txt ,
-wanting,23.txt ,
-setup,23.txt ,
-aid,23.txt ,
-training,23.txt ,
-hanging,23.txt ,
-realm,23.txt ,
-move,23.txt 25.txt ,
-friend,23.txt ,
-winter,23.txt ,
-trainer,23.txt ,
-kickr,23.txt ,
-neoprene,23.txt ,
-stationary,23.txt ,
-cheaper,23.txt ,
-fitness,23.txt ,
-biking,23.txt ,
-undersell,23.txt ,
-ascends,23.txt ,
-approved,23.txt ,
-medium,23.txt ,
-wahoo,23.txt ,
-workout,23.txt ,
-equipment,23.txt ,
-hour,24.txt ,
-digging,24.txt ,
-quad,24.txt ,
-trip,24.txt ,
-minute,24.txt ,
-aircraft,24.txt ,
-adding,24.txt ,
-30,24.txt ,
-already,24.txt ,
-sand,24.txt ,
-codirector,24.txt ,
-heavy,24.txt ,
-apparatus,24.txt ,
-save,24.txt ,
-multiple,24.txt ,
-lab,24.txt ,
-clay,24.txt ,
-requires,24.txt ,
-deployed,24.txt ,
-top-shelf,24.txt ,
-ol,24.txt ,
-speaking,24.txt ,
-strapping,24.txt ,
-return,24.txt ,
-quadcopter,24.txt ,
-especially,24.txt ,
-manned,24.txt ,
-platinum,24.txt ,
-battery,24.txt ,
-powered,24.txt ,
-sensor,24.txt ,
-hitch,24.txt ,
-easy,24.txt ,
-unl,24.txt ,
-ride,24.txt ,
-topping,24.txt ,
-detweiler,24.txt ,
-pro,24.txt ,
-nimbus,24.txt ,
-landed,24.txt ,
-dji,24.txt ,
-ieee,24.txt ,
-flight,24.txt ,
-burrow,24.txt ,
-spectrum,24.txt ,
-mavic,24.txt ,
-gingerly,24.txt ,
-drilling,24.txt ,
-uas,24.txt ,
-beneath,24.txt ,
-primarily,24.txt ,
-dirt,24.txt ,
-drill,24.txt ,
-carrick,24.txt ,
-parachute,24.txt ,
-load,24.txt ,
-allows,24.txt ,
-exacerbates,24.txt ,
-overall,25.txt ,
-six,25.txt ,
-held,25.txt ,
-like—what,25.txt ,
-exhibition,25.txt ,
-boarding,25.txt ,
-visit,25.txt ,
-stressed,25.txt ,
-simulation,25.txt ,
-fair,25.txt ,
-pavilion,25.txt ,
-provide,25.txt ,
-toward,25.txt ,
-centerpiece,25.txt ,
-ramp,25.txt ,
-mobility,25.txt ,
-theme,25.txt ,
-demo,25.txt ,
-—as,25.txt ,
-interview,25.txt ,
-usa,25.txt ,
-2020,25.txt ,
-ryan,25.txt ,
-hyperloop,25.txt ,
-hurtling,25.txt ,
-pavilion—,25.txt ,
-working,25.txt ,
-station,25.txt ,
-transportation,25.txt ,
-marketing,25.txt ,
-spirit,25.txt ,
-kelly,25.txt ,
-opportunity,25.txt ,
-virgin,25.txt ,
-public–private,25.txt ,
-volume,25.txt ,
-demonstration,25.txt ,
-vho,25.txt ,
-preview,25.txt ,
-dubai,25.txt ,
-experiential,25.txt ,
+Token,PostingList
+'',12.txt 24.txt 
+'error',12.txt 
+'re,16.txt 
+'s,11.txt 12.txt 13.txt 16.txt 17.txt 18.txt 20.txt 21.txt 22.txt 24.txt 25.txt 26.txt 29.txt 39.txt 40.txt 41.txt 42.txt 43.txt 44.txt 45.txt 46.txt 47.txt 48.txt 49.txt 50.txt 
+'ve,16.txt 19.txt 
+--,49.txt 
+-30,20.txt 
+1,120-square-foot,35.txt 
+1-terabyte,7.txt 
+1.2,4.txt 
+10,4.txt 
+100,9.txt 
+100mb/s,7.txt 
+108,27.txt 
+11,3.txt 
+11/11/17,1.txt 
+12/22/18,5.txt 
+13,754,34.txt 
+13,969,9.txt 
+14.,3.txt 
+15,35.txt 5.txt 
+150,15.txt 4.txt 
+150-year,15.txt 
+160mb/s,7.txt 
+17th,16.txt 
+18,29.txt 
+18th,16.txt 
+1925,18.txt 
+199.99,7.txt 
+1tb,7.txt 
+200,13.txt 47.txt 
+2013,36.txt 
+2014,29.txt 
+2017,1.txt 29.txt 
+2017.,1.txt 
+2018,14.txt 
+2019.,14.txt 
+2020,25.txt 
+2022,49.txt 
+2024,3.txt 
+20th,42.txt 
+21,1.txt 4.txt 
+21st,49.txt 
+22,3.txt 
+25,25.txt 5.txt 
+26,36.txt 
+28,9.txt 
+3,34.txt 9.txt 
+3/5/16,3.txt 
+30,24.txt 
+33,36.txt 
+35,29.txt 3.txt 
+354,27.txt 
+38,45.txt 
+39.5,29.txt 
+4-kilometer-long,3.txt 
+4-minute,6.txt 
+4.5,36.txt 
+449.99,7.txt 
+4g,11.txt 
+5,17.txt 19.txt 
+5.0,10.txt 
+512gb,7.txt 
+5g,11.txt 
+5mb/s,7.txt 
+6,1.txt 
+6.995,38.txt 
+60,000,34.txt 
+7,625-square-foot,30.txt 
+70,4.txt 
+70-million-year,4.txt 
+78,4.txt 
+9,500,34.txt 
+95mb/s,7.txt 
+96,4.txt 
+``,12.txt 24.txt 
+ability,3.txt 
+able,22.txt 
+access,13.txt 
+accident,12.txt 
+according,1.txt 20.txt 21.txt 29.txt 30.txt 36.txt 38.txt 
+across,19.txt 
+action,14.txt 
+activity,18.txt 
+actually,1.txt 20.txt 23.txt 
+adding,24.txt 
+additional,27.txt 
+admire,46.txt 
+admits,18.txt 
+adopted,17.txt 
+advanced,1.txt 3.txt 31.txt 33.txt 
+advancement,3.txt 5.txt 
+advantage,40.txt 7.txt 
+adventure,49.txt 
+adventurous,40.txt 
+advertising,12.txt 
+afar,1.txt 
+affordable,10.txt 
+africa,50.txt 
+african-american,21.txt 
+aftermath,1.txt 
+afternoon,40.txt 
+aftershock,5.txt 
+age,5.txt 
+agency,31.txt 32.txt 
+agent,18.txt 
+ago,15.txt 4.txt 
+ahead,8.txt 
+ai,2.txt 5.txt 
+aid,23.txt 
+aimless,40.txt 
+air,34.txt 
+aircraft,24.txt 
+airplane,18.txt 
+airtel,11.txt 
+akihibara,45.txt 
+akita,39.txt 
+al,49.txt 
+alarm,12.txt 
+algorithm,5.txt 
+alike,42.txt 
+allen,5.txt 
+allosaur,4.txt 
+allow,11.txt 
+allowing,6.txt 
+allows,24.txt 
+ally,8.txt 
+almost,10.txt 17.txt 
+along,16.txt 36.txt 
+already,24.txt 
+also,10.txt 11.txt 25.txt 33.txt 6.txt 
+always,20.txt 5.txt 
+ambitious,17.txt 
+america,26.txt 4.txt 
+american,25.txt 3.txt 4.txt 5.txt 
+among,1.txt 46.txt 
+amount,2.txt 
+ample,40.txt 46.txt 
+analysis,4.txt 
+analyze,21.txt 
+ancestor,4.txt 
+ancient,15.txt 22.txt 44.txt 
+animal,15.txt 4.txt 
+announced,25.txt 3.txt 7.txt 
+announcement,7.txt 
+annual,3.txt 5.txt 
+annually,18.txt 
+another,1.txt 18.txt 24.txt 
+anticipated,14.txt 
+anyone,7.txt 9.txt 
+anyway,13.txt 
+aomori,39.txt 
+aoyama,45.txt 
+app,23.txt 
+apparatus,24.txt 
+appeared,15.txt 
+appendage,15.txt 
+appliance,13.txt 
+appropriate,15.txt 
+approved,23.txt 
+approximately,34.txt 
+apps,6.txt 
+april,7.txt 
+aquatic,27.txt 
+architectural,41.txt 
+architecture,45.txt 46.txt 
+arctic,20.txt 
+area,21.txt 34.txt 45.txt 5.txt 
+argues,5.txt 
+arm,3.txt 
+army,18.txt 
+around,1.txt 10.txt 12.txt 18.txt 34.txt 4.txt 40.txt 48.txt 5.txt 
+arranged,3.txt 
+art,40.txt 41.txt 47.txt 49.txt 
+artery,9.txt 
+article,18.txt 
+artificial,2.txt 5.txt 
+asakusa,45.txt 
+ascends,23.txt 
+asia,42.txt 
+asian,44.txt 48.txt 
+asking,29.txt 
+assistant,12.txt 21.txt 
+assisting,18.txt 
+association,3.txt 5.txt 
+assure,14.txt 
+astronomer,1.txt 
+astronomical,5.txt 
+astrophysicist,1.txt 
+astrophysics,1.txt 
+atlantis,34.txt 
+attempt,22.txt 
+attention,17.txt 9.txt 
+attraction,39.txt 
+audio,34.txt 
+august,1.txt 
+aussie,46.txt 
+australia,46.txt 
+author,21.txt 
+authority,8.txt 
+automated,34.txt 
+autonomous,5.txt 
+available,29.txt 7.txt 
+average,3.txt 
+await,49.txt 
+awe-inspiring,50.txt 
+awesome,27.txt 
+ayutthaya,44.txt 
+azure,50.txt 
+b-roll,6.txt 
+back,23.txt 3.txt 44.txt 
+bad,14.txt 
+bandwidth,11.txt 
+bangkok,44.txt 
+bango,34.txt 
+bar,44.txt 
+barcelona,8.txt 
+bark,19.txt 
+bath,30.txt 
+battery,24.txt 
+battle,17.txt 18.txt 
+bay,42.txt 44.txt 
+beach,30.txt 34.txt 42.txt 46.txt 49.txt 
+beachfront,28.txt 29.txt 
+beam,3.txt 
+beauty,43.txt 
+became,2.txt 4.txt 
+become,10.txt 4.txt 
+bedroom,30.txt 34.txt 
+beep,6.txt 
+beginning,4.txt 
+beguiling,49.txt 
+beneath,24.txt 47.txt 
+benefit,21.txt 
+bertrand,15.txt 
+best,13.txt 44.txt 45.txt 46.txt 
+bet,13.txt 
+better,16.txt 44.txt 5.txt 
+beyond,46.txt 
+bharti,11.txt 
+bicycle,23.txt 
+big,12.txt 24.txt 40.txt 
+bike,23.txt 44.txt 
+biking,23.txt 
+biology,4.txt 
+birth,16.txt 
+bit,10.txt 
+black,1.txt 50.txt 
+blend,19.txt 49.txt 
+blessed,40.txt 
+blindly,5.txt 
+blood,9.txt 
+bloops,6.txt 
+blueprint,17.txt 
+bluetooth,10.txt 
+boarding,25.txt 
+boast,34.txt 
+boating,40.txt 
+body,15.txt 
+boiler,19.txt 
+bondi,46.txt 
+boom,42.txt 
+border,18.txt 
+bos,8.txt 
+bottom,34.txt 
+bought,13.txt 
+bounce,3.txt 
+boutique,35.txt 
+bow,27.txt 
+box,10.txt 
+brain,18.txt 2.txt 
+brain-inspired,2.txt 
+brand,34.txt 7.txt 
+break,44.txt 
+bridge,32.txt 46.txt 
+bright,1.txt 
+brightness,3.txt 
+british,48.txt 
+broadly,21.txt 
+bronte,46.txt 
+brooklyn,47.txt 
+brought,18.txt 
+brutalist,40.txt 
+buckingham,40.txt 
+buff,46.txt 
+building,35.txt 47.txt 
+built,16.txt 24.txt 32.txt 34.txt 
+bum,42.txt 46.txt 
+bureau—are,18.txt 
+burned,19.txt 
+burning,19.txt 20.txt 
+burrow,24.txt 
+burst,1.txt 
+business,12.txt 25.txt 
+bustling,50.txt 
+buy,13.txt 
+buyer,37.txt 
+buzz,46.txt 
+calcite,15.txt 
+call,12.txt 
+called,1.txt 12.txt 4.txt 
+came,12.txt 16.txt 
+camel,49.txt 
+camera,13.txt 6.txt 
+campaign,26.txt 
+canada,19.txt 
+cancel,14.txt 
+capability,14.txt 
+capacity,7.txt 
+capital,41.txt 42.txt 49.txt 
+card,7.txt 
+care,9.txt 
+carolina,4.txt 
+carrick,24.txt 
+carrier,14.txt 34.txt 
+case,20.txt 33.txt 
+catch,3.txt 
+catching,47.txt 
+caused,1.txt 20.txt 
+cctv,34.txt 
+ceaselessly,18.txt 
+center,15.txt 
+centerpiece,25.txt 
+century,15.txt 16.txt 18.txt 23.txt 42.txt 49.txt 
+certain,3.txt 5.txt 
+certainly,17.txt 
+chagrin,16.txt 
+chain,4.txt 
+challenge,32.txt 
+chance,1.txt 13.txt 6.txt 
+change,17.txt 21.txt 6.txt 
+changed—and,18.txt 
+changing,17.txt 
+characteristic,4.txt 
+charcoal,19.txt 
+charged,1.txt 
+charging,10.txt 
+charles,16.txt 
+charm,42.txt 
+cheaper,23.txt 
+check,5.txt 
+checked,1.txt 
+checking,47.txt 
+cheetah,50.txt 
+chi,42.txt 
+chiang,44.txt 
+chicago,20.txt 
+chinatown,47.txt 
+chinese,26.txt 8.txt 
+chip,2.txt 
+chips—the,19.txt 
+chock-full,44.txt 
+cholesterol,9.txt 
+citing,7.txt 
+citizen,13.txt 
+city,20.txt 36.txt 40.txt 42.txt 44.txt 45.txt 46.txt 47.txt 48.txt 49.txt 50.txt 
+civilization,50.txt 
+claim,11.txt 
+claiming,7.txt 
+class,47.txt 
+clay,24.txt 
+clearly,6.txt 
+click,6.txt 
+climate,17.txt 21.txt 
+close,1.txt 23.txt 46.txt 6.txt 
+closed,18.txt 6.txt 
+closer,6.txt 
+clothes,46.txt 
+clue,4.txt 
+cnn,26.txt 
+cnrs,15.txt 
+coast,18.txt 
+coauthor,1.txt 
+cocktail,44.txt 
+codirector,24.txt 
+coffee,46.txt 
+cold,14.txt 20.txt 
+coliseum,41.txt 
+colleague,4.txt 
+collect,18.txt 21.txt 
+college,2.txt 
+colliding,1.txt 
+collision,1.txt 
+color,21.txt 48.txt 6.txt 
+colorful,44.txt 
+colossal,4.txt 
+combat,14.txt 17.txt 
+combination,1.txt 
+come,10.txt 17.txt 20.txt 
+coming—but,21.txt 
+command,22.txt 
+comment,38.txt 
+commercial,22.txt 
+common,10.txt 11.txt 8.txt 
+commonly,13.txt 
+communication,13.txt 25.txt 4.txt 
+community,16.txt 17.txt 21.txt 
+commuter,20.txt 
+company,11.txt 12.txt 20.txt 26.txt 36.txt 8.txt 
+compass,38.txt 
+compatible,12.txt 
+competing,18.txt 
+competitively,7.txt 
+complete,42.txt 6.txt 
+completely,12.txt 22.txt 
+complex,31.txt 33.txt 
+complicated,14.txt 
+component,12.txt 
+composed,15.txt 
+computer,2.txt 5.txt 
+computing,2.txt 
+concept,27.txt 
+concern,12.txt 13.txt 
+conclude,14.txt 
+conclusion,5.txt 
+conditioning,34.txt 
+condo,35.txt 37.txt 
+conference,3.txt 5.txt 
+confusing,15.txt 
+congress,7.txt 
+connect,6.txt 
+connected,13.txt 2.txt 
+connectivity,2.txt 
+consensus,1.txt 
+conservancy,50.txt 
+conservation,31.txt 32.txt 
+considerable,32.txt 
+considering,7.txt 
+conspire,31.txt 
+constant,18.txt 
+constantly,22.txt 
+contain,22.txt 
+contemporary,34.txt 
+continues,7.txt 
+contraband,18.txt 
+control,12.txt 22.txt 
+controlled,22.txt 
+controlling,21.txt 
+convenience,7.txt 
+cooking,44.txt 
+core,1.txt 
+cork,2.txt 
+cost,31.txt 32.txt 33.txt 
+could,1.txt 17.txt 2.txt 22.txt 24.txt 3.txt 33.txt 5.txt 8.txt 
+counsel,36.txt 
+counterpoint,48.txt 
+counting,5.txt 
+country,13.txt 18.txt 42.txt 44.txt 45.txt 50.txt 
+county,4.txt 
+couple,38.txt 
+court,40.txt 
+cover,14.txt 
+covert,22.txt 
+cradle,50.txt 
+craig,29.txt 
+crane,22.txt 
+crash,1.txt 
+crashing,1.txt 
+crater,5.txt 
+create,2.txt 
+created,28.txt 
+creating,16.txt 23.txt 
+creative,46.txt 
+creature,15.txt 4.txt 
+credence,12.txt 
+cretaceous,4.txt 
+critically,17.txt 
+crowded,47.txt 
+crucial,21.txt 
+culinary,39.txt 
+cultural,46.txt 
+culture,49.txt 50.txt 
+cup,49.txt 
+curbed,16.txt 
+current,3.txt 
+currently,20.txt 
+curtain,34.txt 
+custom,18.txt 34.txt 
+customer,14.txt 
+cutting,45.txt 
+cutting-edge,17.txt 
+cybersecurity,22.txt 
+cycling,23.txt 
+cyclist,23.txt 
+da,42.txt 
+damage,16.txt 20.txt 
+damaging,26.txt 
+dangerous,22.txt 
+darwin,16.txt 
+data,13.txt 2.txt 21.txt 5.txt 
+data-probing,5.txt 
+datasets,5.txt 
+dating,4.txt 
+day,3.txt 43.txt 9.txt 
+de,15.txt 
+dead,1.txt 
+deal,17.txt 
+deborah,21.txt 
+debris,1.txt 
+decade,14.txt 
+decent,10.txt 
+decision,5.txt 
+deck,30.txt 
+decreased,29.txt 
+deed,36.txt 
+deer,4.txt 
+deer-sized,4.txt 
+default,13.txt 
+deferring,5.txt 
+defining,28.txt 
+degree,20.txt 
+delectable,42.txt 
+delicious,44.txt 
+delight,39.txt 
+deliver,11.txt 
+delta,42.txt 
+demand,11.txt 
+demo,25.txt 
+demonstration,25.txt 
+denied,38.txt 
+dense,1.txt 
+department,18.txt 25.txt 
+deploy,21.txt 
+deployed,24.txt 
+desert,49.txt 
+design,10.txt 34.txt 
+designed,14.txt 20.txt 22.txt 
+designer,28.txt 
+desktop-like,6.txt 
+despite,42.txt 
+destination,42.txt 43.txt 44.txt 46.txt 
+destroy,9.txt 
+detail,1.txt 22.txt 
+detect,3.txt 
+detected,1.txt 
+detection,1.txt 
+detector,3.txt 
+determine,14.txt 3.txt 
+detweiler,24.txt 
+devastating,17.txt 
+develop,32.txt 
+developed,22.txt 
+developing,17.txt 
+development,48.txt 
+device,10.txt 12.txt 13.txt 22.txt 6.txt 
+dex,6.txt 
+dhow,49.txt 
+diego,29.txt 
+different,6.txt 
+difficult,31.txt 32.txt 
+digging,24.txt 
+digital,7.txt 
+dinosaur,4.txt 
+dip,28.txt 
+directly,1.txt 18.txt 
+director,36.txt 
+dirt,24.txt 
+disappointed,46.txt 
+discovered,15.txt 4.txt 
+discovery,12.txt 16.txt 4.txt 5.txt 
+disease,9.txt 
+display,6.txt 
+distant,40.txt 
+distribution,16.txt 
+disturbingly,22.txt 
+dji,24.txt 
+dock,10.txt 
+doctor,9.txt 
+document,18.txt 
+doe,12.txt 
+doha,49.txt 
+done,16.txt 
+doom,4.txt 
+doubled,7.txt 
+dramatic,39.txt 
+draw,47.txt 
+drill,24.txt 
+drilling,24.txt 
+drone,16.txt 24.txt 
+dropping,16.txt 
+drug,9.txt 
+dubai,25.txt 34.txt 
+dubbed,4.txt 
+dug,4.txt 
+dumbest,13.txt 
+dumpling,48.txt 
+dune,49.txt 
+e,14.txt 
+ear,10.txt 
+earlier,12.txt 25.txt 29.txt 32.txt 
+early,4.txt 
+earpods,10.txt 
+earth,45.txt 
+earthquake,5.txt 
+easiest,19.txt 
+easily,5.txt 
+easy,24.txt 
+eavesdropping,12.txt 
+echinoderm—from,15.txt 
+echoweek,10.txt 
+economic,42.txt 
+ecuador,16.txt 
+ed,17.txt 
+edge,42.txt 45.txt 
+effective,16.txt 
+effectively,33.txt 
+efficient,45.txt 
+electron,1.txt 
+electronics,13.txt 
+elephant,50.txt 
+elevator,34.txt 
+elizabeth,35.txt 
+else,47.txt 
+embedded,12.txt 
+emerged,2.txt 
+emerging,1.txt 
+emery,4.txt 
+emit,1.txt 
+empire,41.txt 47.txt 48.txt 
+employed,33.txt 
+employee,13.txt 
+empowerment.,21.txt 
+en-suites,34.txt 
+enable,32.txt 
+enables,11.txt 
+end,22.txt 38.txt 
+endangered,50.txt 
+enduring,45.txt 
+energy,1.txt 17.txt 2.txt 21.txt 24.txt 
+engage,22.txt 
+engineering,21.txt 
+enlisted,18.txt 
+enough,10.txt 14.txt 
+enter,14.txt 
+enterprise,11.txt 
+entire,18.txt 
+entirely,34.txt 
+entrepreneur,37.txt 
+entrusted,5.txt 
+environment,33.txt 
+environmental,31.txt 
+equipment,23.txt 
+equipped,12.txt 24.txt 
+ericsson,8.txt 
+error,12.txt 
+escape,1.txt 46.txt 
+especially,24.txt 48.txt 
+essentially,22.txt 
+estimated,25.txt 4.txt 
+ethnicity,21.txt 
+europe,8.txt 
+european,8.txt 
+evaluation,14.txt 
+even,10.txt 11.txt 14.txt 18.txt 21.txt 22.txt 23.txt 4.txt 6.txt 
+event,3.txt 
+ever,1.txt 22.txt 5.txt 
+every,1.txt 3.txt 
+everyone,12.txt 
+evidence,8.txt 
+evolution,16.txt 4.txt 
+exacerbates,24.txt 
+exact,16.txt 
+exactly,15.txt 
+exciting,42.txt 
+exercise,18.txt 23.txt 
+exhibition,25.txt 
+exist,21.txt 
+existence,12.txt 
+existing,11.txt 
+expansive,30.txt 49.txt 
+expensive,14.txt 
+experience,23.txt 25.txt 48.txt 6.txt 
+experiential,25.txt 
+experiment,1.txt 
+expert,22.txt 
+explicit,5.txt 
+exploit,22.txt 
+exploratory,5.txt 
+explore,40.txt 44.txt 
+exploring,23.txt 43.txt 
+extends,18.txt 
+extra,1.txt 
+extraordinary,34.txt 
+extreme,1.txt 20.txt 
+extremely,13.txt 16.txt 22.txt 
+extruded,19.txt 
+f-35,14.txt 
+f-35s,14.txt 
+fabricated,22.txt 
+face,32.txt 
+faced,14.txt 
+facing,34.txt 
+fact,10.txt 12.txt 15.txt 
+fahrenheit,20.txt 
+failed,12.txt 
+fair,25.txt 
+fairly,22.txt 
+falconry,49.txt 
+familiar,46.txt 
+family,15.txt 
+fan,49.txt 
+fantasy,44.txt 
+fascination,45.txt 
+fashion,32.txt 
+fast,4.txt 
+faster,7.txt 
+faulty,5.txt 
+fauna,16.txt 
+faux,28.txt 
+fear,8.txt 
+feature,12.txt 18.txt 22.txt 25.txt 28.txt 30.txt 35.txt 5.txt 
+february,1.txt 3.txt 38.txt 4.txt 5.txt 
+federal,33.txt 
+feel,23.txt 25.txt 41.txt 42.txt 49.txt 
+feeling,23.txt 
+ferocious,4.txt 
+fewer,21.txt 32.txt 
+field,1.txt 44.txt 
+fifth,34.txt 
+fight,16.txt 20.txt 9.txt 
+fighter,14.txt 
+fill,4.txt 
+filled,39.txt 
+finally,15.txt 
+financial,32.txt 
+find,13.txt 46.txt 50.txt 
+finessing,3.txt 
+finest,40.txt 
+finland,8.txt 
+fire,20.txt 
+fireplace,30.txt 35.txt 
+first,1.txt 15.txt 16.txt 47.txt 7.txt 
+fish,48.txt 
+fitness,23.txt 
+five,17.txt 30.txt 34.txt 
+flame,20.txt 
+flank,27.txt 
+flash,1.txt 
+flashy,22.txt 
+fleet,18.txt 
+flight,24.txt 
+flock,47.txt 
+floor,34.txt 
+floor-to-ceiling,30.txt 
+flying,16.txt 24.txt 
+focusing,17.txt 
+fold,6.txt 
+foldable,6.txt 
+folding,6.txt 
+following,5.txt 
+food,4.txt 42.txt 47.txt 9.txt 
+foodie,42.txt 
+foot,27.txt 
+footage,6.txt 
+forbes,22.txt 
+forbidden,18.txt 
+force,18.txt 
+forest,43.txt 44.txt 
+forgot,12.txt 
+form,17.txt 
+fort,47.txt 49.txt 
+forth,3.txt 
+forum,41.txt 
+fossil,4.txt 
+fossilized,15.txt 4.txt 
+fought,18.txt 
+found,22.txt 32.txt 4.txt 48.txt 9.txt 
+foundation,17.txt 
+founded,48.txt 
+founder,26.txt 
+four,34.txt 
+four-room,35.txt 
+france,15.txt 
+french,15.txt 
+fresh,44.txt 
+friend,23.txt 
+frond,34.txt 
+fronthaul,11.txt 
+frontier,18.txt 
+ft.,34.txt 
+fuel,12.txt 19.txt 
+fueling,19.txt 
+fuel—even,19.txt 
+fukushima,39.txt 
+full,34.txt 
+fully,10.txt 34.txt 
+function,12.txt 
+funding,31.txt 
+furnace,19.txt 
+future,11.txt 23.txt 
+g,15.txt 
+gain,13.txt 
+gaining,21.txt 
+gal,16.txt 
+galaxy,6.txt 7.txt 
+gallery,40.txt 
+game,6.txt 
+gaming,23.txt 
+gamma,1.txt 
+gamma-ray,1.txt 
+gamut,14.txt 
+gap,4.txt 6.txt 
+garden,27.txt 45.txt 
+gas,20.txt 24.txt 35.txt 
+gated,34.txt 
+gauge,5.txt 
+gavin,38.txt 
+gear,23.txt 8.txt 
+general,36.txt 
+genetic,5.txt 
+genevera,5.txt 
+get,20.txt 23.txt 45.txt 6.txt 
+getting,23.txt 3.txt 
+ghirlanda,1.txt 
+giancarlo,1.txt 
+giant,12.txt 22.txt 24.txt 4.txt 
+gingerly,24.txt 
+give,22.txt 
+give-and-take,3.txt 
+given,21.txt 22.txt 
+glare,47.txt 
+glass,49.txt 
+glimpse,45.txt 
+global,40.txt 
+glowed,1.txt 
+gnawed,15.txt 
+goal,17.txt 21.txt 
+going,13.txt 17.txt 3.txt 
+golden,5.txt 
+good,10.txt 31.txt 7.txt 
+google,12.txt 21.txt 6.txt 
+got,9.txt 
+government,13.txt 18.txt 26.txt 
+gradually,2.txt 
+grand,27.txt 
+grandeur,40.txt 
+gravitational,1.txt 3.txt 
+gravitational-wave,1.txt 3.txt 
+grbs,1.txt 
+great,41.txt 43.txt 46.txt 50.txt 
+greater,45.txt 
+green,17.txt 
+greene,47.txt 
+greenpoint,47.txt 
+grill,19.txt 
+grocery,9.txt 
+group,8.txt 
+growing,11.txt 
+growth,21.txt 
+guard,12.txt 18.txt 
+guarding,18.txt 
+guessed,18.txt 
+guest,30.txt 
+gulf,49.txt 
+gym,34.txt 
+ha,1.txt 11.txt 12.txt 14.txt 15.txt 17.txt 20.txt 21.txt 24.txt 29.txt 38.txt 42.txt 50.txt 8.txt 9.txt 
+habitat,31.txt 
+hack,13.txt 
+hackable,13.txt 22.txt 
+hacker,22.txt 
+hacking,13.txt 22.txt 
+hackney,40.txt 
+haert,9.txt 
+half,15.txt 
+hall,27.txt 
+hampstead,40.txt 
+hand,20.txt 
+hanford,3.txt 
+hanging,23.txt 
+hangout,49.txt 
+hanoi,42.txt 
+happening,47.txt 
+harbinger,4.txt 
+harbor,46.txt 
+hard,5.txt 
+hardware,22.txt 
+hasn't—over,18.txt 
+hawker,48.txt 
+hcps,32.txt 33.txt 
+head,25.txt 44.txt 47.txt 8.txt 
+health,9.txt 
+hear,6.txt 
+heard,19.txt 
+hearing,10.txt 
+heart,9.txt 
+heat,20.txt 
+heated,20.txt 
+heavy,24.txt 
+heisenberg,3.txt 
+held,25.txt 
+heliport,27.txt 
+help,11.txt 12.txt 17.txt 22.txt 4.txt 
+helpful,16.txt 
+hickory,19.txt 
+hidden,12.txt 22.txt 
+high,31.txt 7.txt 9.txt 
+high-energy,1.txt 
+high-speed,1.txt 
+higher,22.txt 
+highlight,49.txt 
+highly,14.txt 
+hiker,43.txt 
+hill,43.txt 44.txt 46.txt 
+hinge,6.txt 
+hip,4.txt 40.txt 45.txt 47.txt 
+hispanic,21.txt 
+historic,16.txt 
+historical,39.txt 40.txt 
+hitch,24.txt 
+hitter,40.txt 
+ho,42.txt 
+hoi,42.txt 
+hole,1.txt 24.txt 
+home,12.txt 21.txt 29.txt 30.txt 34.txt 35.txt 38.txt 41.txt 45.txt 46.txt 
+homogeneous,11.txt 
+homogenous,11.txt 
+honshu,39.txt 
+hope,16.txt 
+host,49.txt 
+hosting,27.txt 
+hotel,48.txt 
+hotspot,42.txt 46.txt 
+hour,24.txt 
+house,40.txt 46.txt 
+houston,5.txt 
+however,12.txt 28.txt 32.txt 7.txt 
+huawei,26.txt 8.txt 
+human,5.txt 50.txt 
+humble,4.txt 
+hurtling,25.txt 
+husband,37.txt 
+hybrid,15.txt 
+hyde,40.txt 
+hyperloop,25.txt 
+i.,34.txt 
+iconic,34.txt 
+idea,1.txt 31.txt 
+ideal,27.txt 40.txt 43.txt 46.txt 
+identify,5.txt 
+ieee,24.txt 
+image,5.txt 
+imbued,45.txt 
+imperial,41.txt 45.txt 
+implement,31.txt 32.txt 
+important,17.txt 20.txt 
+impossible,3.txt 41.txt 45.txt 
+improve,11.txt 3.txt 
+improvement,2.txt 
+included,2.txt 
+includes,27.txt 34.txt 
+including,6.txt 
+inclusive,34.txt 
+income,21.txt 
+increasing,2.txt 7.txt 
+increasingly,14.txt 
+indeed,14.txt 
+india,11.txt 
+indian,50.txt 
+indicative,4.txt 
+individual,20.txt 34.txt 
+indoor,23.txt 
+industrial,19.txt 22.txt 
+industry,17.txt 
+inexorable,7.txt 
+infinity,27.txt 
+information,13.txt 5.txt 
+infrastructure,32.txt 
+ingredient,9.txt 
+initial,14.txt 31.txt 
+inn,40.txt 
+innovation,17.txt 
+inside,10.txt 30.txt 
+insider,12.txt 
+insight,5.txt 
+insists,12.txt 
+inspector,18.txt 
+instagram,6.txt 
+instance,20.txt 
+instantly,40.txt 
+instead,13.txt 15.txt 
+institute,1.txt 13.txt 
+instruction,22.txt 5.txt 
+intelligence,2.txt 5.txt 
+intended,12.txt 
+intense,8.txt 
+intercom,34.txt 
+interferometer,1.txt 3.txt 
+intergovernmental,21.txt 
+international,26.txt 
+internet,13.txt 
+interview,25.txt 
+intrepid,43.txt 
+intrepidus,4.txt 
+invasive,16.txt 
+investment,33.txt 
+involved,1.txt 18.txt 
+iot,13.txt 14.txt 
+ireland,2.txt 
+islamic,49.txt 
+island,16.txt 39.txt 43.txt 44.txt 
+issue,10.txt 
+italian,34.txt 41.txt 
+italy,1.txt 
+iwate,39.txt 
+izakaya,45.txt 
+jacuzzis,34.txt 
+january,18.txt 
+japan,13.txt 39.txt 45.txt 
+jet,1.txt 14.txt 
+jfk,18.txt 
+joint,14.txt 45.txt 
+joshua,37.txt 
+judgment,5.txt 
+july,14.txt 
+junction,2.txt 
+jurassic,4.txt 
+justice,18.txt 
+jutting,49.txt 
+karaoke,27.txt 
+karlie,37.txt 
+keen,18.txt 
+keep,14.txt 18.txt 
+kelly,25.txt 
+kenya,50.txt 
+kept,42.txt 
+keypad,12.txt 
+kicking,44.txt 
+kickr,23.txt 
+kiln,19.txt 
+kilogram,4.txt 
+kind,22.txt 
+kloss,36.txt 37.txt 
+know,22.txt 9.txt 
+known,18.txt 3.txt 
+kushner,36.txt 37.txt 
+l,3.txt 
+la.,3.txt 
+lab,24.txt 
+laboratoire,15.txt 
+labyrinthine,42.txt 
+laid,16.txt 
+laid-back,50.txt 
+land,18.txt 
+landed,24.txt 
+landmark,34.txt 
+landscape,39.txt 
+landscaped,35.txt 
+language,47.txt 
+lap,28.txt 
+large,18.txt 2.txt 34.txt 5.txt 
+larger,10.txt 24.txt 4.txt 42.txt 5.txt 
+largest,34.txt 8.txt 
+laser,1.txt 3.txt 
+last,21.txt 
+late,4.txt 
+later,4.txt 
+latest,10.txt 29.txt 
+launch,1.txt 
+launched,7.txt 
+law,31.txt 
+lawman,18.txt 
+lay,22.txt 
+lazy,46.txt 
+le,16.txt 22.txt 
+lead,21.txt 5.txt 
+leading,4.txt 
+leafy,40.txt 
+learn,5.txt 
+learning,5.txt 
+least,2.txt 
+leave,46.txt 
+lefebvre,15.txt 
+left-right,10.txt 
+leg,4.txt 
+legal,31.txt 32.txt 
+legend,47.txt 
+lends,12.txt 
+let,1.txt 3.txt 
+level,2.txt 21.txt 
+lie,49.txt 
+life,24.txt 9.txt 
+light,1.txt 20.txt 3.txt 45.txt 47.txt 
+light-speed,1.txt 
+lighting,20.txt 34.txt 
+lightning-paced,44.txt 
+ligo,1.txt 3.txt 
+like,10.txt 13.txt 15.txt 18.txt 19.txt 23.txt 24.txt 25.txt 4.txt 47.txt 49.txt 5.txt 
+likely,19.txt 
+like—what,25.txt 
+limestone,44.txt 
+limited,31.txt 
+lindsay,4.txt 
+line,32.txt 7.txt 
+lion,50.txt 
+list,13.txt 
+listed,12.txt 29.txt 38.txt 
+listing,29.txt 30.txt 38.txt 
+live,5.txt 
+living,16.txt 
+livingston,3.txt 
+llc,36.txt 
+load,24.txt 
+local,16.txt 48.txt 49.txt 9.txt 
+located,29.txt 3.txt 34.txt 39.txt 
+location,34.txt 
+london,40.txt 
+long,1.txt 16.txt 22.txt 32.txt 4.txt 42.txt 44.txt 47.txt 
+look,23.txt 25.txt 6.txt 
+looking,37.txt 46.txt 50.txt 7.txt 
+lost,18.txt 23.txt 
+lot,10.txt 23.txt 6.txt 
+love,43.txt 
+low-energy,2.txt 
+lower,32.txt 9.txt 
+lumber,19.txt 
+lyon,15.txt 
+m.,4.txt 
+maasai,50.txt 
+machine,3.txt 5.txt 
+made,1.txt 12.txt 2.txt 39.txt 
+magical,42.txt 
+magnetic,1.txt 
+mai,44.txt 
+mail,18.txt 
+main,22.txt 25.txt 39.txt 
+majority,29.txt 
+make,12.txt 2.txt 31.txt 42.txt 
+making,11.txt 5.txt 
+malaysia,48.txt 
+managed,42.txt 
+manhattan,37.txt 47.txt 
+manned,24.txt 
+manually,20.txt 
+manufacturing,19.txt 
+many,14.txt 21.txt 22.txt 
+map,21.txt 6.txt 
+mara,50.txt 
+marble,34.txt 
+march,7.txt 
+marina,34.txt 
+market,29.txt 42.txt 45.txt 49.txt 
+marketing,25.txt 
+markey,17.txt 
+mass,14.txt 
+master,30.txt 
+match,50.txt 
+matt,26.txt 
+mature,14.txt 
+mavic,24.txt 
+max,7.txt 
+maximum,34.txt 
+may,25.txt 28.txt 5.txt 
+meant,12.txt 
+meanwhile,44.txt 
+measure,20.txt 3.txt 
+mechanic,18.txt 25.txt 
+mechanical,21.txt 
+medical,5.txt 
+medium,23.txt 
+meet,11.txt 23.txt 3.txt 50.txt 
+meeting,21.txt 3.txt 5.txt 
+megalopolis,49.txt 
+mekong,42.txt 
+memory,2.txt 
+memristors,2.txt 
+men,18.txt 
+mention,12.txt 
+merate,1.txt 
+merchandise,18.txt 
+merge,1.txt 
+merger,1.txt 
+metal,2.txt 
+meter,27.txt 4.txt 
+metra,20.txt 
+metropolis,44.txt 
+metropolitan,45.txt 
+meyer,36.txt 
+mic,12.txt 
+micro,22.txt 
+micron,7.txt 
+microphone,12.txt 
+microphone-equipped,12.txt 
+microsd,7.txt 
+microsdxc,7.txt 
+middle,20.txt 
+might,10.txt 22.txt 9.txt 
+millennia-old,15.txt 
+million,13.txt 25.txt 29.txt 3.txt 36.txt 38.txt 4.txt 45.txt 47.txt 
+minh,42.txt 
+minor,15.txt 
+minute,24.txt 
+mission,14.txt 
+misty-eyed,40.txt 
+mitigation,31.txt 32.txt 33.txt 
+miyagi,39.txt 
+mobile,6.txt 7.txt 8.txt 
+mobility,25.txt 
+mode,25.txt 6.txt 
+model,37.txt 
+modern,15.txt 34.txt 40.txt 42.txt 
+moma,47.txt 
+mombasa,50.txt 
+momentum,3.txt 
+monday,8.txt 
+money,18.txt 
+monitor,3.txt 
+month,12.txt 13.txt 25.txt 29.txt 
+moon,5.txt 
+moro,4.txt 
+mostly,6.txt 
+motion-sensor,12.txt 
+motor,18.txt 
+mountain,43.txt 44.txt 
+move,23.txt 25.txt 
+moving,1.txt 
+mr.,36.txt 
+ms.,29.txt 36.txt 
+much,16.txt 18.txt 23.txt 24.txt 44.txt 47.txt 49.txt 5.txt 6.txt 
+mule,4.txt 
+multiple,24.txt 
+museum,40.txt 49.txt 
+must,17.txt 9.txt 
+mysterious,1.txt 
+mystery,15.txt 4.txt 
+n't,12.txt 22.txt 24.txt 
+nairobi,50.txt 
+name,12.txt 
+namely,5.txt 
+nang,42.txt 
+nanowire,2.txt 
+nanowires,2.txt 
+national,1.txt 13.txt 15.txt 16.txt 17.txt 40.txt 43.txt 50.txt 
+natural,10.txt 2.txt 42.txt 9.txt 
+naturally,9.txt 
+nature,46.txt 
+navy,18.txt 
+near,44.txt 50.txt 
+nearly,18.txt 45.txt 
+need,10.txt 12.txt 17.txt 21.txt 23.txt 24.txt 8.txt 
+needed,32.txt 
+nefarious,22.txt 
+neighborhood,21.txt 40.txt 47.txt 
+neon,45.txt 
+neoprene,23.txt 
+nest,12.txt 
+netflix,6.txt 
+network,1.txt 11.txt 2.txt 8.txt 
+neuron,2.txt 
+neutron,1.txt 
+never,12.txt 19.txt 
+new,1.txt 11.txt 16.txt 17.txt 21.txt 23.txt 25.txt 34.txt 4.txt 47.txt 5.txt 6.txt 7.txt 
+news,3.txt 5.txt 7.txt 
+next,13.txt 25.txt 4.txt 
+nick,38.txt 
+nicole,36.txt 
+night,49.txt 
+nimbus,24.txt 
+nokia,11.txt 8.txt 
+nolita,38.txt 
+none,23.txt 
+noodle,48.txt 
+normalize,9.txt 
+north,29.txt 4.txt 44.txt 50.txt 
+note,20.txt 
+notified,12.txt 
+notify,12.txt 
+november,14.txt 
+nowhere,47.txt 
+number,13.txt 
+object,1.txt 3.txt 
+obligation,32.txt 
+obscurity,22.txt 
+observable,1.txt 
+observation,1.txt 5.txt 
+observatory,1.txt 3.txt 
+observe,20.txt 
+observed,1.txt 
+ocasio-cortez,17.txt 
+occurred,29.txt 
+ocean,50.txt 
+oceanfront,30.txt 
+off-broadway,47.txt 
+offer,34.txt 47.txt 6.txt 
+offering,6.txt 
+office,18.txt 
+ol,24.txt 
+old,15.txt 42.txt 45.txt 
+old-style,42.txt 
+old-world,49.txt 
+oldest,4.txt 
+ologie,15.txt 
+on-device,12.txt 
+one,1.txt 10.txt 13.txt 18.txt 19.txt 25.txt 34.txt 35.txt 4.txt 41.txt 44.txt 45.txt 50.txt 
+one-up,18.txt 
+online,1.txt 
+oogle,12.txt 
+opera,46.txt 
+operating,14.txt 18.txt 
+operation,14.txt 8.txt 
+operational,14.txt 
+opportunity,25.txt 34.txt 40.txt 45.txt 46.txt 
+organization,20.txt 
+organized,16.txt 
+origin,1.txt 
+others,18.txt 
+out-there,45.txt 
+outdoors,43.txt 
+outlaw,18.txt 
+outside,23.txt 49.txt 
+overall,25.txt 
+overcome,14.txt 
+override,22.txt 
+oversight,12.txt 
+ownership,21.txt 
+p.,1.txt 3.txt 5.txt 
+pace,14.txt 
+paddy,44.txt 
+pagos,16.txt 
+pair,1.txt 10.txt 23.txt 
+paired,10.txt 23.txt 
+pairing,10.txt 
+palace,40.txt 45.txt 
+paleontologist,4.txt 
+palm,34.txt 
+panel,21.txt 
+pantheon,41.txt 
+paper,22.txt 
+parachute,24.txt 
+paradise,44.txt 
+paranoia,12.txt 
+park,16.txt 40.txt 43.txt 
+parliament,40.txt 
+part,1.txt 11.txt 25.txt 42.txt 45.txt 
+particle,1.txt 
+partner,11.txt 
+partnered,11.txt 
+partnership,23.txt 25.txt 
+passenger,28.txt 
+passing,3.txt 
+password,13.txt 
+past,14.txt 40.txt 41.txt 
+pathway,2.txt 
+pattern,5.txt 
+pavilion,25.txt 
+pavilion—,25.txt 
+paving,2.txt 
+pellet,19.txt 
+pentagon-mandated,14.txt 
+people,13.txt 16.txt 21.txt 25.txt 45.txt 5.txt 9.txt 
+per,12.txt 
+perfect,45.txt 
+performance,11.txt 7.txt 
+period,4.txt 
+persian,49.txt 
+petite,4.txt 
+phone,6.txt 
+photovoltaic,21.txt 
+pick,16.txt 
+picked,1.txt 
+picture,15.txt 
+piece,22.txt 
+piecemeal,32.txt 33.txt 
+pill,9.txt 
+pipe,20.txt 
+pirate,16.txt 
+pivotal,14.txt 
+place,23.txt 44.txt 47.txt 
+placed,15.txt 31.txt 
+plan,17.txt 31.txt 32.txt 
+plane,14.txt 
+planet,50.txt 
+planned,3.txt 
+plant,19.txt 
+plaque,9.txt 
+plate,15.txt 
+platform,11.txt 
+platinum,24.txt 
+play,47.txt 
+pleasant,19.txt 
+plenty,46.txt 48.txt 
+plethora,12.txt 
+plot,34.txt 
+plus,3.txt 7.txt 
+pm,23.txt 
+pod,10.txt 25.txt 
+point,10.txt 
+poison,16.txt 
+poke,5.txt 
+polar,19.txt 
+pomp,41.txt 
+pool,27.txt 34.txt 
+poor,13.txt 
+popular,18.txt 25.txt 49.txt 
+populated,45.txt 
+pore,5.txt 
+portrait,40.txt 
+pose,10.txt 
+position,3.txt 
+possible,22.txt 
+possibly,1.txt 
+post,18.txt 48.txt 
+potential,21.txt 5.txt 
+power,21.txt 
+powered,24.txt 
+powerful,9.txt 
+practically,16.txt 
+precisely,3.txt 
+predator,4.txt 
+predicting,5.txt 
+prefecture,39.txt 
+premium,7.txt 
+prepares,11.txt 
+prescribing,9.txt 
+presented,21.txt 
+press,21.txt 
+pressure,9.txt 
+pretty,7.txt 
+prevent,20.txt 
+preventing,17.txt 
+preview,25.txt 
+previous,1.txt 
+previously,5.txt 
+price,29.txt 
+priced,7.txt 
+pricing,7.txt 
+primarily,24.txt 
+prime,14.txt 
+primitive,15.txt 
+principal,36.txt 
+principle,3.txt 
+priority,22.txt 
+privacy,12.txt 13.txt 
+privacy.contact,34.txt 
+private,34.txt 
+pro,24.txt 
+probably,19.txt 
+probe,13.txt 
+problem,14.txt 24.txt 
+process,1.txt 2.txt 
+processing,2.txt 
+produced,1.txt 
+producing,1.txt 
+product,19.txt 7.txt 
+production,14.txt 
+professor,21.txt 
+profile,10.txt 
+program,14.txt 5.txt 
+progression,10.txt 
+prohibition,18.txt 
+project,21.txt 33.txt 
+project-level,33.txt 
+promising,2.txt 
+prompted,20.txt 
+property,3.txt 34.txt 36.txt 
+proposed,17.txt 
+proprietary,22.txt 
+protecting,33.txt 
+protection,21.txt 
+protocol,22.txt 
+proton,1.txt 
+prove,14.txt 
+proved,16.txt 
+provide,25.txt 30.txt 45.txt 
+provided,1.txt 
+provider,11.txt 
+provides,40.txt 
+providing,2.txt 25.txt 
+pub,45.txt 
+public,29.txt 
+public–private,25.txt 
+pull,41.txt 
+purchased,36.txt 
+purpose,18.txt 24.txt 
+put,14.txt 
+putting,23.txt 
+pv,21.txt 
+qatar,49.txt 
+quad,24.txt 
+quadcopter,24.txt 
+quantum,3.txt 
+quarter,42.txt 7.txt 
+queen,47.txt 
+question,15.txt 17.txt 
+quicker,5.txt 
+quintessential,44.txt 48.txt 
+quite,10.txt 18.txt 4.txt 
+race,21.txt 
+racing,49.txt 
+radio,1.txt 
+raffle,48.txt 
+rai,44.txt 
+rail,20.txt 32.txt 40.txt 
+raising,32.txt 
+raleigh,4.txt 
+ramp,25.txt 
+random,2.txt 
+randwick,46.txt 
+range,22.txt 32.txt 
+rapid,48.txt 
+rat,16.txt 
+rather,5.txt 
+ray,1.txt 
+re-invaded,16.txt 
+reached,20.txt 
+reaching,17.txt 
+read,34.txt 7.txt 
+ready,11.txt 14.txt 
+real,12.txt 
+reality,23.txt 
+realm,23.txt 
+recently,16.txt 17.txt 
+recognizable,40.txt 
+recognizing,31.txt 
+recombine,3.txt 
+record,29.txt 36.txt 4.txt 
+redfern,46.txt 
+reduce,33.txt 
+reecho,10.txt 
+regardless,21.txt 
+regent,40.txt 
+regional,31.txt 33.txt 
+reinvention,42.txt 
+relationship,5.txt 
+relaxed,47.txt 
+relay,22.txt 
+released,7.txt 
+reliable,5.txt 
+relies,3.txt 
+remains,16.txt 
+reminiscent,15.txt 
+remotely,22.txt 
+ren,26.txt 
+renaissance,41.txt 
+render,22.txt 
+renowned,48.txt 
+rep.,17.txt 
+report,1.txt 4.txt 
+reputation,26.txt 
+request,38.txt 
+require,17.txt 
+required,2.txt 33.txt 
+requires,24.txt 
+research,15.txt 
+researcher,1.txt 2.txt 3.txt 4.txt 
+resembled,15.txt 
+reserve,50.txt 
+resident,34.txt 
+residential,35.txt 
+resistor,2.txt 
+resource,21.txt 
+restaurant,46.txt 
+restricted,2.txt 
+restriction,31.txt 
+result,5.txt 
+retain,42.txt 
+retains,49.txt 
+return,24.txt 
+returned,29.txt 
+reuters,8.txt 
+revamp,3.txt 
+revenue,18.txt 
+review,10.txt 
+revolution,21.txt 
+revved,3.txt 
+rewind,18.txt 
+rex,4.txt 
+rhino,50.txt 
+rice,5.txt 
+ride,24.txt 44.txt 47.txt 
+riding,23.txt 
+rift,50.txt 
+riot,42.txt 
+ripple,1.txt 3.txt 
+risk,26.txt 
+river,26.txt 
+rm,18.txt 
+road,32.txt 
+roam,43.txt 
+rock,4.txt 
+rogue,20.txt 
+roman,41.txt 
+rome,41.txt 
+roof,44.txt 
+root,50.txt 
+round,14.txt 
+royal,40.txt 
+rule,3.txt 
+run,20.txt 
+runner,4.txt 
+ryan,25.txt 
+s10,7.txt 
+safer,12.txt 
+safety,22.txt 25.txt 
+said,25.txt 3.txt 5.txt 8.txt 
+salamander,15.txt 
+salt,28.txt 
+sam,18.txt 
+samburu,50.txt 
+samsung,6.txt 7.txt 
+san,29.txt 
+sand,24.txt 46.txt 50.txt 
+sandisk,7.txt 
+sandy,44.txt 
+saturday,46.txt 
+save,24.txt 
+saving,32.txt 
+sawdust,19.txt 
+sawmill,19.txt 
+say,1.txt 21.txt 23.txt 24.txt 26.txt 5.txt 
+scaling,43.txt 
+scene,22.txt 
+scheme,12.txt 
+science,1.txt 17.txt 3.txt 5.txt 
+scientific,15.txt 24.txt 5.txt 
+scientist,1.txt 15.txt 16.txt 3.txt 5.txt 
+scrutiny,8.txt 
+sea,18.txt 34.txt 
+searching,4.txt 
+seat,41.txt 
+second,7.txt 
+secret,12.txt 18.txt 
+secure,12.txt 22.txt 
+security,10.txt 12.txt 13.txt 18.txt 22.txt 25.txt 34.txt 
+see,10.txt 15.txt 46.txt 47.txt 6.txt 
+seeing,45.txt 
+seek,3.txt 
+seemingly,12.txt 2.txt 
+seems,19.txt 
+seen,1.txt 10.txt 21.txt 4.txt 
+selection,6.txt 
+sell,7.txt 
+sen.,17.txt 
+sense,45.txt 
+sensoji,45.txt 
+sensor,24.txt 
+separately,10.txt 
+serf,42.txt 
+series,20.txt 
+serious,17.txt 23.txt 
+serpentine,40.txt 
+service,10.txt 11.txt 
+serviced,34.txt 
+services—the,18.txt 
+serving,48.txt 
+session,27.txt 
+set,14.txt 34.txt 
+setting,10.txt 20.txt 
+setup,23.txt 
+several,14.txt 21.txt 
+severity,22.txt 
+shack,44.txt 
+share,8.txt 
+shared,22.txt 
+shaving,19.txt 
+shed,1.txt 
+sheer,10.txt 25.txt 50.txt 
+shei-pa,43.txt 
+shibuya,45.txt 
+shop,46.txt 9.txt 
+shopping,47.txt 
+shore,28.txt 
+short,1.txt 14.txt 24.txt 
+shot,1.txt 6.txt 
+show,1.txt 25.txt 33.txt 4.txt 45.txt 6.txt 
+showcasing,40.txt 
+showing,14.txt 
+shown,6.txt 
+shutting,22.txt 
+side,18.txt 34.txt 
+sight,40.txt 46.txt 47.txt 
+signatory,36.txt 
+significant,32.txt 
+silent,6.txt 
+silver,2.txt 
+similar,2.txt 
+simulated,14.txt 28.txt 
+simulation,25.txt 
+simultaneously,2.txt 
+since,15.txt 22.txt 24.txt 42.txt 
+singapore,48.txt 
+single,2.txt 3.txt 45.txt 
+sipping,48.txt 
+sister,1.txt 36.txt 
+site,1.txt 16.txt 41.txt 
+sits,26.txt 
+six,25.txt 34.txt 39.txt 
+six-and-a-half,30.txt 
+size,10.txt 34.txt 4.txt 
+sized,4.txt 
+skin,45.txt 
+skipping,21.txt 
+sky,49.txt 
+slight,6.txt 
+sling,48.txt 
+small,10.txt 22.txt 45.txt 
+smaller,10.txt 
+smallest,10.txt 4.txt 
+smart,13.txt 23.txt 
+smashed,1.txt 
+smith,48.txt 
+smuggler,18.txt 
+sn,1.txt 3.txt 5.txt 
+snow,43.txt 
+soaring,44.txt 
+soccer,49.txt 
+social,21.txt 23.txt 
+sock,23.txt 
+software,6.txt 
+soho,47.txt 
+solar,21.txt 
+solution,11.txt 2.txt 24.txt 
+solve,4.txt 
+solved,15.txt 
+something,19.txt 20.txt 
+sometime,16.txt 
+somewhere,22.txt 
+soon,10.txt 
+sort,12.txt 
+sound,10.txt 
+soup,48.txt 
+souq,49.txt 
+source,10.txt 
+south,50.txt 
+southeast,42.txt 
+space,1.txt 
+spacetime,1.txt 3.txt 
+span,27.txt 
+sparking,12.txt 
+speaking,24.txt 
+spec,12.txt 
+specie,16.txt 4.txt 
+specifically,20.txt 
+spectacular,41.txt 
+spectrum,24.txt 
+speed,1.txt 7.txt 
+spell,20.txt 
+spend,43.txt 
+spending,18.txt 40.txt 41.txt 
+spicy,48.txt 
+spine,15.txt 
+spirit,25.txt 
+spoken,47.txt 
+spokesperson,12.txt 7.txt 
+spot,40.txt 44.txt 
+spy,8.txt 
+sq,34.txt 
+square,40.txt 47.txt 
+stall,42.txt 48.txt 
+stand,47.txt 
+standard,10.txt 
+standardized,22.txt 
+star,1.txt 49.txt 
+starfish,15.txt 
+start,13.txt 14.txt 
+starting,13.txt 3.txt 
+state,21.txt 22.txt 25.txt 3.txt 33.txt 4.txt 47.txt 8.txt 
+statement,21.txt 
+station,25.txt 
+stationary,23.txt 
+stay,10.txt 
+steel,49.txt 
+steep,41.txt 
+stern,28.txt 
+still,48.txt 
+stockpile,5.txt 
+stood,4.txt 
+stop,9.txt 
+storage,7.txt 
+store,10.txt 2.txt 46.txt 9.txt 
+stored,2.txt 
+storing,2.txt 
+strain,17.txt 
+strapping,24.txt 
+strategy,11.txt 33.txt 
+stream,1.txt 
+street,35.txt 42.txt 47.txt 48.txt 
+street-food,44.txt 
+strength,9.txt 
+stressed,25.txt 
+stretch,46.txt 
+strike,14.txt 
+strolling,40.txt 
+struggle,15.txt 
+study,1.txt 21.txt 33.txt 
+studying,5.txt 
+stuff,19.txt 44.txt 47.txt 
+stunned,9.txt 
+stunning,10.txt 44.txt 49.txt 
+style,48.txt 
+stylophoran,15.txt 
+stylophorans,15.txt 
+subatomic,1.txt 
+substantive,21.txt 
+subway,47.txt 
+subzero,23.txt 
+succeed,17.txt 
+succeeded,17.txt 
+success,16.txt 
+suffering,9.txt 
+suggests,12.txt 
+suite,30.txt 34.txt 
+sum,18.txt 32.txt 
+sun-drenched,44.txt 
+sunny,40.txt 
+sunroof,21.txt 
+sunter,21.txt 
+superb,40.txt 
+superyacht,28.txt 
+supplier,8.txt 
+support,11.txt 
+sure,10.txt 23.txt 
+surfing,46.txt 
+surgery,9.txt 
+surpassed,3.txt 
+surprising,9.txt 
+surrounding,44.txt 
+surry,46.txt 
+susceptible,22.txt 
+sushi,45.txt 
+swathe,42.txt 
+sweden,8.txt 
+sweep,19.txt 
+swift,4.txt 
+swim,40.txt 
+swimming,34.txt 46.txt 
+sydney,46.txt 
+synapsis,2.txt 
+system,18.txt 24.txt 40.txt 5.txt 
+t.,4.txt 
+tablet,6.txt 
+tail,15.txt 
+taiwan,43.txt 
+take,10.txt 2.txt 20.txt 40.txt 8.txt 
+taken,20.txt 
+taking,40.txt 
+talk,27.txt 
+tally,3.txt 
+tamarama,46.txt 
+tate,40.txt 
+team,2.txt 4.txt 
+tease,1.txt 
+tech,12.txt 26.txt 
+technique,3.txt 
+technological,17.txt 
+technology,13.txt 23.txt 8.txt 
+ted,27.txt 
+teeth,4.txt 
+telecom,11.txt 
+telescope,1.txt 
+tell,12.txt 18.txt 7.txt 
+temp,23.txt 
+temperature,20.txt 
+temple,44.txt 45.txt 
+tend,13.txt 22.txt 24.txt 
+term,14.txt 
+terrace,35.txt 
+test,1.txt 11.txt 13.txt 14.txt 
+testing,14.txt 
+thai,44.txt 
+thailand,44.txt 48.txt 
+thanks,9.txt 
+theme,25.txt 
+theory,1.txt 
+thermostat,13.txt 
+thin,4.txt 
+thing,13.txt 20.txt 7.txt 
+think,1.txt 10.txt 19.txt 
+thinking,7.txt 
+though,10.txt 15.txt 46.txt 
+thought,1.txt 23.txt 
+thousand,18.txt 
+three,18.txt 23.txt 
+thrill-seekers,42.txt 
+thrust,49.txt 
+thumb,49.txt 
+time,1.txt 14.txt 22.txt 24.txt 3.txt 32.txt 33.txt 4.txt 41.txt 47.txt 
+timeline,16.txt 
+timer,47.txt 
+tiny,15.txt 45.txt 
+tip,34.txt 39.txt 
+titanic,4.txt 
+today,34.txt 7.txt 
+toe,28.txt 
+tohoku,39.txt 
+tokyo,45.txt 
+told,12.txt 8.txt 
+toll,18.txt 
+top,34.txt 4.txt 44.txt 47.txt 
+top-shelf,24.txt 
+topped,4.txt 
+topping,24.txt 
+tortoise,16.txt 
+total,18.txt 
+tourist,42.txt 46.txt 49.txt 
+toward,25.txt 
+tower,40.txt 
+town,42.txt 
+track,20.txt 
+trading,48.txt 
+tradition,45.txt 
+traditional,33.txt 49.txt 
+trafalgar,40.txt 
+trail,11.txt 
+train,20.txt 
+trainer,23.txt 
+training,23.txt 
+tranquility,27.txt 
+transform,9.txt 
+translates,3.txt 
+transportation,25.txt 31.txt 32.txt 33.txt 
+trap,16.txt 
+travel,13.txt 50.txt 
+treatment,9.txt 
+trek,44.txt 
+trend,22.txt 
+triangular,27.txt 
+tribal,50.txt 
+trip,24.txt 45.txt 50.txt 
+trivial,22.txt 
+trove,5.txt 
+true,46.txt 
+truly,42.txt 
+trust,5.txt 
+trusting,5.txt 
+trying,13.txt 18.txt 
+tsukiji,45.txt 
+tube,40.txt 
+tuft,21.txt 
+turn,12.txt 
+tweaked,2.txt 
+twice,29.txt 
+two,23.txt 3.txt 30.txt 7.txt 
+two-bedroom,37.txt 
+tyrannosaur,4.txt 
+tyrannosaurus,4.txt 
+u,12.txt 18.txt 26.txt 34.txt 7.txt 
+u.s.,19.txt 8.txt 
+uas,24.txt 
+uhs-i,7.txt 
+ultimate,44.txt 
+ultra-modern,49.txt 
+ultradense,1.txt 
+ultrahip,46.txt 
+ultramodern,45.txt 
+uncertainty,3.txt 
+uncle,18.txt 
+uncover,5.txt 
+underground,20.txt 
+undersell,23.txt 
+understand,19.txt 
+unesco-protected,42.txt 
+uneven,21.txt 
+unexpected,43.txt 
+unique,34.txt 
+unit,10.txt 30.txt 35.txt 36.txt 
+united,21.txt 8.txt 
+university,2.txt 4.txt 5.txt 
+unknown,16.txt 5.txt 
+unl,24.txt 
+unlike,4.txt 
+unparalleled,16.txt 
+unsurprising,12.txt 
+unsurprisingly,32.txt 
+unwilling,23.txt 
+up-and-coming,50.txt 
+upcoming,22.txt 
+updated,22.txt 
+upgrade,3.txt 
+upon,28.txt 
+upturned,49.txt 
+us,10.txt 22.txt 
+usa,25.txt 
+usb-c,6.txt 
+use,10.txt 13.txt 22.txt 24.txt 5.txt 8.txt 
+used,10.txt 13.txt 2.txt 21.txt 24.txt 
+useless,22.txt 
+user,12.txt 
+using,1.txt 21.txt 23.txt 
+us—that,12.txt 
+utah,4.txt 
+vacation,43.txt 44.txt 
+valley,43.txt 50.txt 
+value,18.txt 31.txt 
+variation,6.txt 
+variety,6.txt 
+various,22.txt 23.txt 5.txt 6.txt 
+vast,18.txt 46.txt 
+vehicle,24.txt 25.txt 8.txt 
+venerable,49.txt 
+verdant,43.txt 
+verify,5.txt 
+versus,7.txt 
+vertebrate,15.txt 
+vessel—the,28.txt 
+vho,25.txt 
+via,42.txt 6.txt 
+vibe,47.txt 
+vicious,20.txt 
+video,24.txt 34.txt 6.txt 9.txt 
+vietnam,42.txt 48.txt 
+view,30.txt 34.txt 8.txt 
+viewing,34.txt 
+vigilance,18.txt 
+villa,34.txt 
+virgin,25.txt 
+virgo,1.txt 
+virtual,23.txt 
+visceral,48.txt 
+visit,25.txt 
+visitor,16.txt 40.txt 47.txt 
+vodafone,8.txt 
+voice,12.txt 
+voice-control,12.txt 
+volume,25.txt 
+vortex,19.txt 
+vulnerability,22.txt 
+vulnerable,13.txt 
+wa,1.txt 12.txt 15.txt 18.txt 22.txt 29.txt 
+wahoo,23.txt 
+walking,10.txt 
+wandering,45.txt 
+want,47.txt 
+wanted,22.txt 
+wanting,23.txt 
+waqif,49.txt 
+war,42.txt 
+warm,19.txt 
+warned,5.txt 
+warns,5.txt 
+wash.,3.txt 
+washington,3.txt 5.txt 
+waste,16.txt 19.txt 
+watch,9.txt 
+water,28.txt 50.txt 
+wave,1.txt 3.txt 
+wavelength,1.txt 
+way,2.txt 22.txt 49.txt 
+weapon,16.txt 
+weather,14.txt 
+week,25.txt 29.txt 3.txt 
+weekend,49.txt 
+weighed,4.txt 
+weird,15.txt 19.txt 
+well,21.txt 25.txt 
+well-protected,50.txt 
+western,48.txt 7.txt 
+whaler,16.txt 
+whatever,17.txt 
+whether,3.txt 40.txt 47.txt 8.txt 
+white,44.txt 50.txt 
+whose,18.txt 
+wi-fi,13.txt 
+widely,22.txt 
+wildlife,50.txt 
+wind,20.txt 
+window,30.txt 
+winner,2.txt 
+winner-takes-all,2.txt 
+winter,23.txt 
+wireless,10.txt 22.txt 
+wit,18.txt 
+within,15.txt 3.txt 4.txt 
+without,23.txt 9.txt 
+wonder,42.txt 
+wood-processing,19.txt 
+wooden,49.txt 
+work,1.txt 10.txt 25.txt 5.txt 
+worker,20.txt 
+working,25.txt 
+workout,23.txt 
+world,1.txt 18.txt 23.txt 25.txt 41.txt 44.txt 47.txt 49.txt 7.txt 8.txt 
+world-famous,47.txt 
+worldwide,14.txt 18.txt 
+worth,14.txt 47.txt 
+would,12.txt 14.txt 17.txt 23.txt 4.txt 
+wrangle,3.txt 
+wraparound,30.txt 
+wrapped,34.txt 
+wreckage,1.txt 
+write,7.txt 
+yacht,27.txt 
+yamagata,39.txt 
+year,15.txt 16.txt 17.txt 21.txt 4.txt 47.txt 7.txt 
+yet,4.txt 45.txt 7.txt 9.txt 
+yield,32.txt 
+york,47.txt 
+zanno,4.txt 
+zhengfei,26.txt 
+zubarah,49.txt 
+zwift,23.txt 
+–,9.txt 
+—as,25.txt 

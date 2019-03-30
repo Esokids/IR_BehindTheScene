@@ -91,6 +91,7 @@ def main():
         posting_list.append(e)
 
     quickSort(posting_list)
+
     num_assignment += 1
     search = 'could'.lower()
     num_assignment += 1
