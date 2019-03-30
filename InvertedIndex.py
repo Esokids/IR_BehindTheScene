@@ -65,9 +65,6 @@ class Dictionary:
     def __repr__(self):
         return f"{self.word} {self.index}"
 
-    def __le__(self, other):
-        return self.word < other.word
-
 
 def main():
     global num_assignment
@@ -94,7 +91,6 @@ def main():
         posting_list.append(e)
 
     quickSort(posting_list)
-
     num_assignment += 1
     search = 'could'.lower()
     num_assignment += 1
