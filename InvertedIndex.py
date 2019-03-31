@@ -6,8 +6,8 @@ from collections import defaultdict
 stop_words = set(stopwords.words('english'))
 punctuations = '''!()-[]{};:"'\,<>./?@#$%^&*_~/———`“”‘’'''
 stop_words.update(punctuations)
-num_comparator = 0
-num_assignment = 0
+count_comparator = 0
+count_assignment = 0
 
 
 def quickSort(arr):
@@ -16,38 +16,38 @@ def quickSort(arr):
 
 
 def quickSortHelper(arr, low, high):
-    global num_comparator
-    global num_assignment
+    global count_comparator
+    global count_assignment
 
-    num_comparator += 1
+    count_comparator += 1
     if low < high:
-        num_assignment += 1
+        count_assignment += 1
         pi = partition(arr, low, high)
         quickSortHelper(arr, low, pi - 1)
         quickSortHelper(arr, pi + 1, high)
 
 
 def partition(arr, low, high):
-    global num_comparator
-    global num_assignment
+    global count_comparator
+    global count_assignment
 
-    num_assignment += 1
+    count_assignment += 1
     i = low - 1
 
-    num_assignment += 1
+    count_assignment += 1
     pivot = arr[high]
 
     for j in range(low, high):
-        num_comparator += 1
+        count_comparator += 1
         if arr[j] <= pivot:
 
-            num_assignment += 1
+            count_assignment += 1
             i += 1
 
-            num_assignment += 3
+            count_assignment += 3
             arr[i], arr[j] = arr[j], arr[i]
 
-    num_assignment += 3
+    count_assignment += 3
     arr[i + 1], arr[high] = arr[high], arr[i + 1]
     return i + 1
 
@@ -67,8 +67,8 @@ class Dictionary:
 
 
 def main():
-    global num_assignment
-    global num_comparator
+    global count_assignment
+    global count_comparator
     posting_list = list()
     posting = list()
     dic = defaultdict(list)
@@ -83,32 +83,32 @@ def main():
 
     # grouping
     for token in posting:
-        num_assignment += 1
+        count_assignment += 1
         dic[token.word].append(token.index)
 
     for e in dic.items():
-        num_assignment += 1
+        count_assignment += 1
         posting_list.append(e)
 
     quickSort(posting_list)
 
-    num_assignment += 1
+    count_assignment += 1
     search = 'could'.lower()
-    num_assignment += 1
+    count_assignment += 1
     flagSearch = False
     for e in posting_list:
-        num_comparator += 1
+        count_comparator += 1
         if e[0] == search:
-            num_assignment += 1
+            count_assignment += 1
             flagSearch = True
             print('Posting of this word : ', e[1])
 
-    num_comparator += 1
+    count_comparator += 1
     if not flagSearch:
         print("Not Found")
 
-    print('Assignment Count: ', num_assignment)
-    print('Comparator Count: ',num_comparator)
+    print('Assignment Count: ', count_assignment)
+    print('Comparator Count: ', count_comparator)
 
 
 if __name__ == '__main__':
