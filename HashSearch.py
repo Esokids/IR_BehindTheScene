@@ -9,6 +9,7 @@ stop_words.update(punctuations)
 count_comparator = 0
 count_assignment = 0
 
+
 class Word():
     def __init__(self, key, posting):
         self.key = key

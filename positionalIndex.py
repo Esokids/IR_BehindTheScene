@@ -38,8 +38,12 @@ def main():
             count_assignment += 1
             dic[word].append(dic_pos)
 
-    for keys, values in [(keys, values) for x in dic['could'] for (keys, values) in x.items()]:
-        print(keys, values)
+    search = 'could'
+    if dic[search] is not None:
+        for keys, values in [(keys, values) for x in dic[search] for (keys, values) in x.items()]:
+            print(keys, values)
+    else:
+        print("Not Found")
 
     ''''' **** same ****
     # for x in dic['sport']:

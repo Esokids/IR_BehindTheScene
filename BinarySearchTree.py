@@ -9,6 +9,7 @@ stop_words.update(punctuations)
 count_comparator = 0
 count_assignment = 0
 
+
 class Node:
     def __init__(self, key):
         self.left = None
@@ -89,9 +90,6 @@ def main():
 
     word = "could"
     inorder(r, word)
-
-
-
 
 
 if __name__ == '__main__':
