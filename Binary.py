@@ -86,7 +86,7 @@ class BST:
         if currentNode is None:
             return False
         elif val == currentNode.val[0]:
-            return currentNode.val[1]
+            return currentNode.val
         elif val < currentNode.val[0]:
             return self.findNode(currentNode.left, val)
         else:
@@ -135,7 +135,8 @@ def main():
 
     search = 'could'
     if bst.find(search) is not None:
-        print(bst.find(search))
+        result = bst.find(search)
+        print(f'Search word: {result[0]}\nResult : {result[1]}')
     else:
         print("Not Found")
 
