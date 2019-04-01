@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TU Search</title>
+    <style>
+        .button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 5px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 14px;
+        margin: 4px 2px;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        cursor: pointer;
+        }
+.button2 {
+  background-color: white;
+  color: black;
+  border: 1px solid #008CBA;
+  border-radius:8px
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+
+}
+.a:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+</style>
+</head>
+<body background="https://sv1.picz.in.th/images/2019/01/24/TYPpG8.png?fbclid=IwAR2FZD_O2Fz4Lojb6EI1iC-avJdrVuAij5GN7Hmofa3af4PPOw9SbwH2cRM">
+    <center>
+        <h1 style="color:#45547E"> TU Search Result </h1>
+        <form action='http://127.0.0.1:5000/result' method="POST">
+            <input class="a" placeholder="Search" type="search" name="Search" id="a" style="width:500px;height:40px;"  ><br/><br/>
+            <button class="button button2">Search</button>
+        </form>
+        <table border="1">
+            {% for value in result: %}
+            <tr>
+                <td>
+                    <a href={{ value }}> {{value}} </a>
+                </td>
+            </tr>
+            {% endfor %}
+
+            {{ count_ass }}
+            {{ count_com }}
+        </table>
+    </center>
+</body>
+</html>

@@ -66,7 +66,7 @@ class Dictionary:
         return f"{self.word} {self.index}"
 
 
-def main():
+def main(search = 'could'.lower()):
     global count_assignment
     global count_comparator
     posting_list = list()
@@ -93,8 +93,8 @@ def main():
     quickSort(posting_list)
 
     count_assignment += 1
-    search = 'could'.lower()
     count_assignment += 1
+
     flagSearch = False
     for e in posting_list:
         count_comparator += 1
@@ -102,10 +102,11 @@ def main():
             count_assignment += 1
             flagSearch = True
             print('Posting of this word : ', e[1])
-
+            return e[1], count_assignment, count_comparator
     count_comparator += 1
     if not flagSearch:
         print("Not Found")
+        return False
 
     print('Assignment Count: ', count_assignment)
     print('Comparator Count: ', count_comparator)
